@@ -22,7 +22,7 @@ The goal is to spend up to 30 minutes on at least two studies in my sketchbook.
 For this first study, I decided I wanted to try a different medium and found a tutorial on drawing for aerial perspective using chalk pastels.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1149,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Photo_2024-11-03_105030-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Photo_2024-11-03_105030-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Photo_2024-11-03_105030-scaled.jpeg)
 _Summer field. Pastel on paper._
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -49,14 +49,14 @@ _Personal photograph. Etang des Jaugas, Avensan, France._
 I tried to use watercolour for the first study... with limited success. I am sharing only to document unsuccessful attempts and try to learn from them, no matter how frustrated I feel!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1153,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/APC_0051-1.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/APC_0051-1.jpeg)
+[![](/{{ site.baseurl }}/images/apc-0051-1.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/APC_0051-1.jpeg)
 _Etang des Jaugas - Study 2a, Water colour on paper._
 <!-- /wp:image --><!-- wp:paragraph -->
 
 In this study I started with the sky and tried to remove pigments for the clouds. This did not work well as the sky got all messy. I then tried to smudge it (I guess because I had just completed the pastel study!) and it left finger prints marks in the sky (ugh!). Next, I tried to work on the clouds but I felt no connection with the medium and rather than focussing on studying my reference, I was battling with the pigments. I think the issue with watercolour is that you need to be minimalist and patient. You need to have a pretty strong idea of what you intend to do, whereas I tend to "think things through" and "edit" as I go along until I get where I want to be. In this sense, I find pastels and oil paint more relatable! Here I felt I was loosing the reference but also not managing to push the image somewhere satisfying. I decided to let this one rest and have a second go but trying to use a limited number of strokes to get "a feel" for the composition.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1154,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/APC_0059-hdr-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/APC_0059-hdr-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/apc-0059-hdr.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/APC_0059-hdr-scaled.jpeg)
 _Etang des Jaugas - Study 2b, watercolour on paper_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -80,14 +80,14 @@ This last piece of advice was attributed to artist and teacher [Mitch Albala](ht
 Coming back to the studies, I decided to have one last go using the four-value approach. To try something different from watercolours, I used my iPad and the Procreate app, with the photo showing as a reference while I was drawing with the ‘6B pencil’ brush from the sketching collection using a palette with four grey values.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1159,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/img_0125-1.png)
+![](/{{ site.baseurl }}/images/img-0125-1.png)
 _Procreate app working space_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 It was a slow building process, much similar to the pastel drawing (but also much less messy!). I tried adding the clouds in the sky but in the end, I preferred the high contrast of the white sky.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1162,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/img_0124-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/img_0124-1.jpg)
+[![](/{{ site.baseurl }}/images/img-0124-1.png)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/img_0124-1.jpg)
 _Étang des Jaugas - study 2c, digital drawing_
 <!-- /wp:image --><!-- wp:heading -->
 ## Reflections and learnings

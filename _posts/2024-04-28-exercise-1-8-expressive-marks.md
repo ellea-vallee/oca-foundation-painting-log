@@ -50,7 +50,7 @@ Because of the time constraint, I decided to use acrylics instead of oil because
 To keep in with the bright colours, I used my tube of fluorescent pink which I mixed with yellow, blue and white to get purples, blues, and oranges. By the end of my first session (pictured on the easel in the gallery above) I had achieved a fairly satisfying outcome, working on showcasing a right source of light like in Matisse's pitcher. This being said, I knew I was not done. I felt the background did not create enough contrast with the colorful flowers and the pot was not "standing out" enough.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":744,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/Photo_2024-04-28_100329.jpeg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _Bright flowers in a ceramic vase_
 <!-- /wp:image --><!-- wp:paragraph -->
 

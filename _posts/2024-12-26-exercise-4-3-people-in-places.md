@@ -26,13 +26,13 @@ I completed the first series of sketches while we were traveling on the ferry fo
 <!-- /wp:paragraph --><!-- wp:heading -->
 ## Methodic approach to figure drawing
 <!-- /wp:heading --><!-- wp:image {"id":1306,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/IMG_8463_jpg-scaled.jpg)
+![](/{{ site.baseurl }}/images/img-8463-jpg.jpg)
 <!-- /wp:image --><!-- wp:paragraph -->
 
 The virtual instructor's tutorial suggested a 4-step "method" using lines for the spine and the limbs and "adding meat" (!) to create the form of the figure. Next we were taken to through a series of poses to practice the method and complete the drawing in 3 to 8 minutes.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1310,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/Image-scaled.jpg)
+![](/{{ site.baseurl }}/images/image-1.jpeg)
 <!-- /wp:image --><!-- wp:jetpack/tiled-gallery {"columns":3,"columnWidths":[["33.33113","33.33287","33.33599"]],"ids":[1308,1307,1309]} -->
 
 ![](https://i0.wp.com/oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/5355/2024/12/IMG_8460.jpg?ssl=1)
@@ -51,9 +51,9 @@ I found the exercise still made my figures a little too "stiff" and "overworked"
 ### 30-second sketches
 <!-- /wp:heading --><!-- wp:gallery {"linkTo":"none"} -->
 <!-- wp:image {"id":1312,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/IMG_8469-scaled.jpg)
+![](/{{ site.baseurl }}/images/img-8469.jpg)
 <!-- /wp:image --><!-- wp:image {"id":1311,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/IMG_8470-scaled.jpg)
+![](/{{ site.baseurl }}/images/img-8470.jpg)
 <!-- /wp:image -->
 <!-- /wp:gallery --><!-- wp:paragraph -->
 
@@ -63,11 +63,11 @@ I first tried the setting with a 30 second limit but it was way too fast! Howeve
 ### 60-second sketches
 <!-- /wp:heading --><!-- wp:gallery {"linkTo":"none"} -->
 <!-- wp:image {"id":1314,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/IMG_8471-scaled.jpg)
+![](/{{ site.baseurl }}/images/img-8471.jpg)
 <!-- /wp:image --><!-- wp:image {"id":1313,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/IMG_8472-scaled.jpg)
+![](/{{ site.baseurl }}/images/img-8472.jpg)
 <!-- /wp:image --><!-- wp:image {"id":1315,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/IMG_8473-scaled.jpg)
+![](/{{ site.baseurl }}/images/img-8473.jpg)
 <!-- /wp:image -->
 <!-- /wp:gallery --><!-- wp:paragraph -->
 

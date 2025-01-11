@@ -21,7 +21,7 @@ In this exercise I was experimenting with, and reflecting on, the different effe
 I have used a combination of Turquoise blue and Prussian blue hue from Liquitex. I do love my bright blues!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":365,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3741-1-1024x682.jpg)
+![](/{{ site.baseurl }}/images/img-3741-1.jpg)
 _Liquitex basic acrylic paint colours used for this exercise_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -36,7 +36,7 @@ It's the first time I've used these tubes even though I have purchased them seve
 Keeping in mind the advice from the induction about how presentation matters, I decided to use masking tape to frame my "experiments".
 
 <!-- /wp:paragraph --><!-- wp:image {"id":367,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3698-1-768x1024.jpg)
+![](/{{ site.baseurl }}/images/img-3698-1.jpg)
 _I've used masking tape to frame my mark-making experiments in the hope of giving a more "finished" look to the end result._
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -61,35 +61,35 @@ The "flat wash" technique is one I always have trouble with. I just can't seem t
 For example, because acrylic paint dries so quickly, you can quickly come back on your wash and create nice contrasting colours. With watercolour you have to wait or use a hair dryer or else it spreads everywhere. I'm neither patient enough nor organised enough to do either but I like the contrasting effect in layering. And I _really_ liked the nice and crisp layering effect you can quickly achieve with acrylic paint.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":370,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3699-1.jpg)
+![](/{{ site.baseurl }}/images/img-3699-1-1.jpg)
 _Layering over a flat wash with varying degrees of diluted acrylic paint_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 Then I started to layer lines from top to bottom and realised the top was not dried yet so I got some really nice effects mixing sharp bold lines with fluffy wet lines.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":371,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3699-2.jpg)
+![](/{{ site.baseurl }}/images/img-3699-1-1.jpg)
 _Accidentally experimenting with wet on dry and wet on wet effects with acrylic paint_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 I tried to replicate this somewhere else. It didn't worked as well but I'm guessing it's because I had a wet square rather than bold wet lines layered.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":373,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3699-1-1.jpg)
+![](/{{ site.baseurl }}/images/img-3699-1-1.jpg)
 _Intentional wet on wet and wet on dry effect... not so successful!_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 Next I tried the wash gradient again with the turquoise colour. I failed again to achieve a smooth gradient but I had another "happy accident" where my brush was not evenly loaded with paint. This created a gradient within each brush stroke and I really liked that effect.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":375,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3699-2-1.jpg)
+![](/{{ site.baseurl }}/images/img-3699-1-1.jpg)
 _Another failed smooth flat wash yielded another happy accident with unevenly diluted paint on my brush!_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 I challenged myself to recreate it and this time it worked!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":376,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3699-3.jpg)
+![](/{{ site.baseurl }}/images/img-3699-1-1.jpg)
 _An intentional effect from a happy accident!_
 <!-- /wp:image --><!-- wp:paragraph -->
 

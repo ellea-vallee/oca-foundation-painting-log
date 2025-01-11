@@ -21,10 +21,10 @@ There are 5 sections in this unit, so I am aiming to spend 80 hours per section,
 I've then split the time into weeks, assuming Part 1 is squeezed over 6 weeks, because we started with a two-week induction.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":434,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/Pasted-image-20240317221836-1024x183.png)
+![](/{{ site.baseurl }}/images/pasted-image-20240317221836.png)
 _Overview of deadlines for each part of the Foundation course_
 <!-- /wp:image --><!-- wp:image {"id":435,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/image-1024x266.png)
+![](/{{ site.baseurl }}/images/image-1.jpeg)
 _My timeline for Part 1 of the Foundation course_
 <!-- /wp:image --><!-- wp:paragraph {"fontSize":"small"} -->
 

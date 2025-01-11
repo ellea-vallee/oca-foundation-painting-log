@@ -51,7 +51,7 @@ _Experiment #1 - Midway through_
 I enjoyed setting the background and the contrasts between the shapes. Midway through I had some nice reflections on the bottle and decided to paint the cup in a lighter shade of blue and keep the little vase off white to create more contrast.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":705,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_4177-2-1-e1713113001255.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_4177-2-1-e1713113001255.jpg)
+[![](/{{ site.baseurl }}/images/img-4177-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_4177-2-1-e1713113001255.jpg)
 _Experiment #1 - Final results_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -92,7 +92,7 @@ The drawing was rough and it turns out to be more complicated than I thought wit
 Unfortunately, I decided to use phthalocyanine emerald for the bag. I regretted it as I really didn't like the color, but it was too late and it was just an exercise... so I continued. I really liked the rough texture of the paint on the left, however the canvas was really showing through, and it was more difficult to control it. The brush marks were less visible on the right and it was easier to blend the highlights, somehow. Still I do feel very unsure of what I am doing. When it came to do the shadow, I didn't know how to mix it. My instinct was to mix green with brown, I don't know why, and it was a really bad instinct!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":714,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/IMG_4128-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4128.jpeg)
 _Experiment #2 - Final result_
 <!-- /wp:image --><!-- wp:heading -->
 ## Final reflections

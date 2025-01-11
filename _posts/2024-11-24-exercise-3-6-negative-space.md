@@ -21,17 +21,17 @@ I really like negative space drawings. The examples below are charcoal I complet
 <!-- wp:columns -->
 <!-- wp:column -->
 <!-- wp:image {"id":1184,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Document_2022-10-27_114719.jpeg)
+![](/{{ site.baseurl }}/images/document-2022-10-27-114719.jpeg)
 _Bottles. Charcoal on paper_
 <!-- /wp:image -->
 <!-- /wp:column --><!-- wp:column -->
 <!-- wp:image {"id":1185,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/2022-10-21_071058.jpeg)
+![](/{{ site.baseurl }}/images/2022-10-21-071058-2.jpeg)
 _Spatula. Charcoal on paper_
 <!-- /wp:image -->
 <!-- /wp:column --><!-- wp:column -->
 <!-- wp:image {"id":1186,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/28drawings_2023-02-08_073231.jpeg)
+![](/{{ site.baseurl }}/images/28drawings-2023-02-08-073231.jpeg)
 _Chair. Charcoal on paper_
 <!-- /wp:image -->
 <!-- /wp:column -->
@@ -45,17 +45,17 @@ I love the sharp contrast and the texture. I kept this exercise in mind when we 
 I did a few practice studies in my sketchbooks, inspired by the _Wayne Thiebaud, draftsman_ book, I drew different frames to explore different compositions.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1187,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_7641-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-7641.jpeg)
 _Inspiring examples of sketches by Wayne Thiebaud, from Wayne Thiebaud, draftsman._
 <!-- /wp:image --><!-- wp:image {"id":1188,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_7639-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-7639.jpeg)
 _Exploring forms in negative shapes. Graphite on A5 paper_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 After the first small sketches, I felt constrained by the small format and so I switched to my A4 sketchbook. The proportions are still giving me trouble but focussing on the negative spaces helped me let go of the tyranny of what "things look like." I also enjoyed shading the negative spaces rather than the forms.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1189,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_7640-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-7640.jpeg)
 _Further "private" studies of negative spaces. Graphite on A4 paper_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -78,7 +78,7 @@ I used acrylic for both studies. I hadn't used it in a while and it was fun to r
 For the colour palette, I was inspired by Marianne Werefkin's _the Dancer_. I went to see the exhibition at the Tate a few weeks back and got a few postcards which I have hanged on the wall, alongside other paintings I saw from the Albertina in Vienna last summer. I do love those deep blues and the salmon cheeks. I picked Prussian blue and mixed fluorescent pink with yellow ochre to get the vibrant salmon.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1193,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/APC_0070-hdr.jpeg)
+![](/{{ site.baseurl }}/images/apc-0070-hdr.jpeg)
 _Marianne Werefkin. The Dancer Alexander Sacharoff, 1909_
 <!-- /wp:image --><!-- wp:heading {"level":3} -->
 ### Study 1 - Starting with the subject
@@ -88,9 +88,9 @@ For the first study I started by painting the chairs with the tip of a round bru
 
 <!-- /wp:paragraph --><!-- wp:gallery {"linkTo":"none"} -->
 <!-- wp:image {"id":1191,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_7642-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-7642.jpeg)
 <!-- /wp:image --><!-- wp:image {"id":1190,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_7643-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_7643-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/img-7643.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_7643-scaled.jpeg)
 <!-- /wp:image -->
 <!-- /wp:gallery --><!-- wp:paragraph -->
 
@@ -101,7 +101,7 @@ It was OK but I was not too happy with the result. I noted that, despite the gra
 In the end I let go of the exercise and picked up two Sennelier oil sticks—an iridescent white and a Payne's grey—to add highlights and shadows. The white is a bit transparent but it added in interesting shine to the painting where the white glows or disappears as a function of the angle at which you look at it. I realised I needed to apply the black with a brush or else it would be too think so I used my smaller bristle brush to add shadows. I also unified the background by adding a line for the darker shadow. It was not in the reference photograph but I felt this helped the composition.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1194,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Photo_2024-11-24_122151-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Photo_2024-11-24_122151-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Photo_2024-11-24_122151-scaled.jpeg)
 _Restaurant chairs - Study I. Acrylic and oil on paper._
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -120,7 +120,7 @@ Next I reproduced the same outline with the carbon paper but this time tried to 
 I started by filling in the background shapes with an undiluted raw dark Prussian blue. Then I used a lighter hue of blue with unbleached titanium for the floor and the top line. Finally I used a middle tone for the wall on the left. When I was done I felt the chairs were too white so I worked on them, mixing the same salmon colour but this time used it for the bars. Then I used a highly diluted blue for the chairs. The last detail I added were the darker shades of lines on the wall and finally I used a Posca white for the highlights.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1196,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_7671-1.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_7671-1.jpeg)
+[![](/{{ site.baseurl }}/images/img-7671-1.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_7671-1.jpeg)
 _Restaurant chairs - Study II. Acrylic on paper_
 <!-- /wp:image --><!-- wp:paragraph -->
 

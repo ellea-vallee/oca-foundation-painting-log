@@ -25,35 +25,35 @@ Once I was settled, I felt I had so little experience drawing from life, I neede
 My first pencil sketch was OK for a rough sketch although I found it hard to keep it simple and got caught in too many details, like the reflection of the small white vase on the large dark vase.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":682,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_4097-1.jpg)
+![](/{{ site.baseurl }}/images/img-4097-1.jpg)
 _Pencil sketch #1 on A3 paper_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 Next I tried to focus only on the outlines but I stopped early as I realised the proportions were really off!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":683,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_4098-1.jpg)
+![](/{{ site.baseurl }}/images/img-4098-1.jpg)
 _Pencil sketch #2 on A3 paper_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 In the following sketch, I tried again to aim for better proportions. I noticed how I kept going over the lines but my proportions were still off. The small vase was way too small compared to the big vase!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":686,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_4099-1.jpg)
+![](/{{ site.baseurl }}/images/img-4099-1.jpg)
 _Pencil sketch #3 on A3 paper_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 After that I remembered there is a trick where you hold a stick and try to find a unit mesure which becomes the gold standard against which you measure everything else. I understand the concept but I can "see" it. My hand is too shaky and my eyesight is too blurry! Anyways, I did try to use boxes. It helped a bit but the process was tiresome. Then I started to notice the curve on the vase wasn't quite right and symmetrical...
 
 <!-- /wp:paragraph --><!-- wp:image {"id":687,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_4100-1.jpg)
+![](/{{ site.baseurl }}/images/img-4100-1.jpg)
 _Pencil sketches #4-5 on A3 paper_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 For my final sketch, I remembered another trick was to use a transparent view finder and draw the outline on it and then use this as a reference. I tried that. Again it did help a little. At last I felt ready to experiment with oil paint!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":688,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_4102-1.jpg)
+![](/{{ site.baseurl }}/images/img-4102-1.jpg)
 _Marker sketch #6 on A3 paper_
 <!-- /wp:image --><!-- wp:heading {"className":"wp-block-heading"} -->
 ## Drawing with paint (finally)
@@ -71,7 +71,7 @@ _Old fish, 2022, oil on A4 canvas paper_
 For the first experiment for this exercise, I only used primary phtalo blue as a colour. Unfortunately, I couldn't access the easel when I had time to do this so I painted on a flat surface and used masking tape to secure a small sheet of canvas paper. I tried to stick to the instructions to allow for a fluid line and vary the amount of pressure but I kept going over it. The end result was more of a monochrome study than a drawing with paint although you can notice the line work. I was not sure what brush to use either. Sadly I didn't record which brush I used and I have now forgotten!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":690,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_4104-1.jpg)
+![](/{{ site.baseurl }}/images/img-4104-1.jpg)
 _Drawing #1 - Oil on A5 paper canvas_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -95,7 +95,7 @@ I tried to add more pressure on the lines on the right but I got carried away wi
 Although I thoroughly enjoyed working on the first drawing, I felt I had not succeeded in making a drawing with paint. So I tried again, this time from life, and on the easel. I used a larger format and a larger round brush.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":692,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_4103-1.jpg)
+![](/{{ site.baseurl }}/images/img-4103-1.jpg)
 _Oil on A3 sketch paper_
 <!-- /wp:image --><!-- wp:paragraph -->
 

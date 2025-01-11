@@ -20,14 +20,14 @@ The intention was to:
 <!-- /wp:list --><!-- wp:heading {"className":"wp-block-heading"} -->
 ## First study: simple objects but complex shapes!
 <!-- /wp:heading --><!-- wp:image {"align":"center","id":833,"sizeSlug":"full","linkDestination":"none","className":"is-resized"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/IMG_4827-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4827.jpeg)
 _First sketch: toy beach chair and jewelry box_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 For my first attempt at completing this exercise, I looked for interesting objects to paint and settled on a toy beach chair and a jewelry box. I didn't want to do "just a pepper" or "just an apple" but in the end, I ended up with a challenge that was beyond what I was supposed to do (focussing on the relationship between colours) and got instead caught in drawing shapes and shadows. When it came to using the water colours, I tried to stick to primary colours from my Schmincke's Horadam aquarelle testing set (Pure yellow, Ultramarine, Perylene dark read, Burnt umber and Yellow raw ochre).
 
 <!-- /wp:paragraph --><!-- wp:image {"id":834,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_140449.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_140449.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_140449.jpeg)
 _Faux beach chair (Sketchbook study)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -52,16 +52,16 @@ For the second study, I decided to stick to a more "classical" set-up. I found a
 In hindsight, looking at the colours now, I feel the blue and the greys worked well together but the light yellow of the lemon is perhaps too bright?
 
 <!-- /wp:paragraph --><!-- wp:image {"id":835,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_143230-rotated.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_143230-rotated.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_143230-rotated.jpeg)
 _Pitcher and lemon I (sketchbook study)_
 <!-- /wp:image --><!-- wp:heading {"className":"wp-block-heading"} -->
 ## Third study: Yellow against pink
 <!-- /wp:heading --><!-- wp:gallery {"linkTo":"none"} -->
 <!-- wp:image {"id":836,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/34EA070B-2312-4C48-887F-795920CF7FA5-scaled.jpeg)
+![](/{{ site.baseurl }}/images/34ea070b-2312-4c48-887f-795920cf7fa5.jpeg)
 _Photo of the set-up_
 <!-- /wp:image --><!-- wp:image {"id":837,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Handwritten_2024-05-24_075859.jpeg)
+![](/{{ site.baseurl }}/images/handwritten-2024-05-24-075859.jpeg)
 _Still life sketch (the angle of the live view was slightly different from the photo)_
 <!-- /wp:image -->
 <!-- /wp:gallery --><!-- wp:paragraph -->
@@ -69,7 +69,7 @@ _Still life sketch (the angle of the live view was slightly different from the p
 For my third study, I set up the lemon and the pitcher against a pink background and used a spotlight to light it. I took my time to sketch the drawing. I was wearing my varifocals, and sitting on the couch with my sketchbook on the coffee table. In the end by drawing was squished down compared to the original! Later on, I came across the concept of the "error of parallax" which occurs when one looks at a sheet of paper at an acute angle and thought I need to use a table easel and teach myself to draw vertically rather than on a flat surface if I want to draw and paint from life.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":838,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_144922-rotated.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_144922-rotated.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_144922-rotated.jpeg)
 _Pitcher and lemon II (sketchbook study)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -91,16 +91,16 @@ One challenge I have is to get myself to do and redo the same thing over and ove
 
 <!-- /wp:paragraph --><!-- wp:gallery {"linkTo":"none"} -->
 <!-- wp:image {"id":840,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/IMG_4916-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4916.jpeg)
 <!-- /wp:image --><!-- wp:image {"id":839,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/IMG_4914-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4914.jpeg)
 <!-- /wp:image -->
 <!-- /wp:gallery --><!-- wp:paragraph -->
 
 I tried to limit myself in time to 15 minutes. The bell rang but I wanted to continue so at least I know it took me longer than 15 minutes. I tried to focus on keeping the colours vibrant this time and only go over to add depth using the same colour but with more pigment. I managed to get an interesting effect with the dark values which I think was also because I had put my sketchbook on the easel and the pigment flowed downward; a happy accident!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":841,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_153021-rotated.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_153021-rotated.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-27_153021-rotated.jpeg)
 _Fruit bowl I (sketchbook study)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -124,7 +124,7 @@ I drew again using my pencil like a brush. I suppose the sketch was not adequate
 I then applied the watercolour on broad areas and aiming to add layers to add depth. In the end the result was again grainy and overworked. I found it difficult to know what I was aiming for. What should I aim to improve? I tried
 
 <!-- /wp:paragraph --><!-- wp:image {"id":845,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807_2-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807_2-1.jpg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807_2-1.jpg)
 _Fruit bowl II (sketchbook study)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -141,7 +141,7 @@ For the sixth study, I tried to improve the form of the lemons. This is probably
 I had also changed brush and started to use a round "aquafine" which holds less water and can hold more pigments in. I also used a large palette of Winston watercolour pans with (too) many colour hues as I thought perhaps I was too restricted with one set of yellow, red, and blue. Although rather than help, this led me to create something rather messy. I tried not to give up too early and came back to it later to try and make it better. I can still see many issues. The most annoying is perhaps the shadow underneath the Sharon fruit which is still too light.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":846,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807_1-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807_1-1.jpg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807_1-1.jpg)
 _Fruit bowl III (sketchbook study)_
 <!-- /wp:image --><!-- wp:heading {"className":"wp-block-heading"} -->
 ## Seventh study: uncertainty galore
@@ -162,7 +162,7 @@ Then I tried to mix grey from the colour of the shapes. Blueish for the bowl and
 I am a little happier with this study. It's a bit stylised but I don't mind so much. It still show overworked messy marks and I don't quite like the green background. I don't think it works well with the blue bowl. Perhaps I should have opted for a light blue instead. But at least I got the dark shadows although the one below the right lemon lacks pigmentation.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":849,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807-1.jpg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807-1.jpg)
 _Fruit bowl study IV (sketchbook study)_
 <!-- /wp:image --><!-- wp:heading {"className":"wp-block-heading"} -->
 ## Eighth study: going back
@@ -175,7 +175,7 @@ I was thinking of one piece of feedback I received for Part 1 which resonated, n
 Still... after I had completed the Lemon and pitcher I (which I did very loosely without a pencil sketch), I had sketched the pitcher with pencil and filled the background with a blue wash. I got frustrated at that point because I ended up with lots of "cauliflowers" and I had given up without adding any more colours on the lemon or the pitcher. So for the last study I returned to the sketch and added some light colour and shading. It is not a finished piece and I am not sure the bright blue works with the yellow lemon. Nothing spectacular but at least I didn't give up entirely.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":851,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807_4-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807_4-1.jpg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-01_123807_4-1.jpg)
 _Lemon and Pitcher Ib (sketchbook study)_
 <!-- /wp:image --><!-- wp:heading {"level":1,"className":"wp-block-heading"} -->
 # Final thoughts 
@@ -189,22 +189,22 @@ _Lemon and Pitcher Ib (sketchbook study)_
 <!-- /wp:list-item -->
 <!-- /wp:list --><!-- wp:gallery {"columns":2,"imageCrop":false,"linkTo":"media"} -->
 <!-- wp:image {"id":857,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/IMG_3961-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/IMG_3961-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/img-3961.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/IMG_3961-scaled.jpeg)
 _Pencil drawing from a photograph and an online tutorial_
 <!-- /wp:image --><!-- wp:image {"id":854,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/2024-02-11_175001.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/2024-02-11_175001.jpeg)
+[![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/2024-02-11_175001.jpeg)
 _Pencil drawing from a photograph and an online tutorial_
 <!-- /wp:image --><!-- wp:image {"id":855,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/2023-11-19_153300-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/2023-11-19_153300-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/2023-11-19-153300.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/2023-11-19_153300-scaled.jpeg)
 _Pencil drawing from a photograph and online tutorial_
 <!-- /wp:image --><!-- wp:image {"id":858,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/IMG_2415-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/IMG_2415-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/img-2415.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/IMG_2415-scaled.jpeg)
 _Pencil drawing from a photograph and online tutorial_
 <!-- /wp:image --><!-- wp:image {"id":856,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/IMG_3972-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/IMG_3972-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/img-3972-1.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/IMG_3972-scaled.jpeg)
 _Pencil drawing from a personal photograph_
 <!-- /wp:image --><!-- wp:image {"id":859,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/D3E9A038-09EE-4AE3-B43F-E96D7178E1E2.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/D3E9A038-09EE-4AE3-B43F-E96D7178E1E2.jpeg)
+[![](/{{ site.baseurl }}/images/d3e9a038-09ee-4ae3-b43f-e96d7178e1e2-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/D3E9A038-09EE-4AE3-B43F-E96D7178E1E2.jpeg)
 _Negative charcoal still life study_
 <!-- /wp:image -->
 _Pencil drawing exercises I have completed previously using step-by-step tutorials or my own pictures._

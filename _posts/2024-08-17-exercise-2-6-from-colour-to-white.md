@@ -34,14 +34,14 @@ The article proposes "a computational technique to assist the painter or the des
 Rather than using the computer output, I decided to stick with my human brain and picked one original simple still life by Morandi as a starting point.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":974,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_0106-1.jpg)
+![](/{{ site.baseurl }}/images/img-0106-1.jpg)
 _Still life by Giorgio Morandi (1955)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 I picked this particular still life for its minimal simplicity. I found [a high resolution version on Sotheby's website](https://www.sothebys.com/en/buy/auction/2023/modern-evening-auction/natura-morta) (and was shocked to discover it was put for auction in 2023 for between 1 and 1.5 millions US dollars!). I enjoyed zooming in and studying the detailed marks. For instance, I realised he outlined the bottles carefully with the background colour while further away from them, the brush marks were more dynamic and zigzagging.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":975,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_0108-1.jpg)
+![](/{{ site.baseurl }}/images/img-0108-1.jpg)
 _Close up showing the various brushstrokes_
 <!-- /wp:image --><!-- wp:heading {"level":3,"className":"wp-block-heading"} -->
 ### Prepping up
@@ -118,11 +118,11 @@ Next I completed the background and mixed a tiny amount of cerulean blue with wh
 The picture below shows the before / after the little tweaks. The first one was taken at 12:46 and the last one at 13:35. I also noticed how the colours are slightly different each time I take a picture, depending on when, and where I take it. I'd like to learn how to be more consistent, or record the painting with its true colours although perhaps I would need to dig out a DSLR camera for this rather than rely on my iPhone.
 
 <!-- /wp:paragraph --><!-- wp:jetpack/image-compare {"imageBefore":{"id":996,"url":"https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-14_124617-2-scaled.jpeg","alt":"","width":1916,"height":2560},"imageAfter":{"id":997,"url":"https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-14_133220-scaled.jpeg","alt":"","width":1930,"height":2560}} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-14_124617-2-scaled.jpeg) ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-14_133220-scaled.jpeg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg) ![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 <!-- /wp:jetpack/image-compare --><!-- wp:heading -->
 ## Final piece
 <!-- /wp:heading --><!-- wp:image {"id":995,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-14_185449-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-14_185449-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-14_185449-scaled.jpeg)
 _Still life inspired by Giorgio. Oil on canvas. 40 x 30cm._
 <!-- /wp:image --><!-- wp:paragraph -->
 

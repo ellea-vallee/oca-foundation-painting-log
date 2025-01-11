@@ -54,7 +54,7 @@ Next, I decided to work on the background sketch outline to save time to focus o
 ![](https://i2.wp.com/oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/5355/2024/08/IMG_5567-scaled.jpeg?ssl=1)
 
 <!-- /wp:jetpack/tiled-gallery --><!-- wp:image {"id":946,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/2024-08-05_102557.jpeg)
+![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)
 _Final outline sketch_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -102,7 +102,7 @@ I liked the rough look of the deer but it also looked "blocky" and I chose inste
 <!-- /wp:paragraph --><!-- wp:heading {"level":3,"className":"wp-block-heading"} -->
 ### Working on the background
 <!-- /wp:heading --><!-- wp:image {"id":957,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-09_203646-scaled.jpeg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _Working on the background_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -129,7 +129,7 @@ For the final stages, I mixed a cooler brown for the antlers, worked on the deta
 Above is a painting by Edgar Degas I took when last visiting the National Gallery in April, "Hélène Rouart in her Father's study". I took a close up of the hands: the hand on the left, so delicate and beautiful, the one on the right so... unfinished! Why? What happened there? Somehow the muddled hand is almost more interesting, certainly more intriguing than the perfect one... Something to ponder on at a later stage. Anyways, just as I am writing this, I'm also now realising how Degas used a warm blue and red/orange colour combination for the dress and the chair... It's all slowly falling into place!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":959,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-11_092442.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-11_092442.jpg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Photo_2024-08-11_092442.jpg)
 _Pour une Amourette. Final painting (still a little too wet to be photographed properly!)_
 <!-- /wp:image --><!-- wp:heading {"className":"wp-block-heading"} -->
 ## Final thoughts and reflections
@@ -148,6 +148,6 @@ In this exercise I tried to:
 All in all, I'm still very much enjoying the learning journey and I am starting to see myself pursuing this in the long term beyond the foundation! I do feel I need to progress a little quicker through the course however... So I'm setting myself a challenge to keep it loose for the next exercises in Part 2 so I can progress through them in a few hours, rather than days and weeks! There is also a side of me which longs to be freer and more fluid. I use the left over paint from my last session on an A0 paper. I created this in about 5 minutes. It doesn't qualify as anything other than a scribble but I don't know how to gauge what makes a "successful" fluid piece. Perhaps it is too early for me to go there and I need to stick with the technique and the controlled practice first... or I could challenge myself to do several of these in a row and reflect on what works and what doesn't. I was listening to OCA's artist talk by [Fiona Tracey](https://oca.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=cc78fc38-c0a5-4dc3-8e41-b1b601368de0&start=2694.2743315425755) and the idea of "sitting with an image" and "finding the image" through the process resonated a lot!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":963,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_5724-1.jpg)
+![](/{{ site.baseurl }}/images/img-5724-1.jpg)
 _A quick and dirty fluid piece using left over paint._
 <!-- /wp:image -->

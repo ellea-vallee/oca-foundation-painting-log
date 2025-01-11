@@ -17,7 +17,7 @@ I looked at different examples, from books and online sources to better understa
 In the collection of the [collection of the British Museum](https://www.britishmuseum.org/collection/search?school_style=Chinese%20paintings%2Fprints%20schools), I found an arresting painting of a boat by artist Yu Ren from the 1500s.
 
 <!-- /wp:paragraph --><!-- wp:image {"align":"center","id":1131,"width":332,"height":628,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/hanging-scroll-Yu-Ren-Zhe-School-c1500.png)
+![](/{{ site.baseurl }}/images/hanging-scroll-yu-ren-zhe-school-c1500.png)
 _Yu Ren, Untitled, c. 1500, ink and colour on silk._
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -28,7 +28,7 @@ I can see how the perspective is created through changes in contrast and details
 Another painting I found as a reproduction in E.H. Gombrich's (1959) _Art and Illusion: A study in the psychology of pictorial representation_. Gombrich explains that to create the illusion of space, the viewer must first be provided with a 'screen' —an empty or ill-defined area where they can "project" the expected image. Apparently Chinese Art theory discusses "the power of expression through the _absence_ of brush and ink" with a maxim "_i tao pi pu tao_—idea present, brush may be spared performance". Gombrich then quotes "another Chinese treatise" to highlight how the shiny empty surface of the silk is as integral to the image as the brushstrokes:
 
 <!-- /wp:paragraph --><!-- wp:image {"align":"center","id":1130,"width":488,"height":688,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Photo_2024-11-02_102227.jpg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _Unknown Chinese Artist, A fisherman above after the rain, c. 1100-1200_
 <!-- /wp:image --><!-- wp:quote -->
 
@@ -43,7 +43,7 @@ _Unknown Chinese Artist, A fisherman above after the rain, c. 1100-1200_
 In another fascinating chapter of his book, Gombrich talks about "formulas and experiences" and compares the Chinese teachings to the European teachings. The Europeans use a "learning by rote" approach, which relied teaching via "schema and correction". There's a wonderful photograph of a Victorian drawing class, which Gombrich uses to comment on the dreariness of the method of teaching pupils to draw the schema of a leaf they could hardly have seen in their surroundings: "_Can anything be more deadening to spontaneity and imagination than the learning by rote recommended by these methods?_" (p. 128). I wholeheartedly agree! I helped me understand why I have felt so stifled by the linear perspective exercises of this section of the course!
 
 <!-- /wp:paragraph --><!-- wp:image {"align":"center","id":1134,"width":500,"height":348,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Photo_2024-11-02_115937.jpg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _A Victorian drawing class. In Gombrich (1959), reprinted from J. Vaughan, (1903), Nelson's new drawing course. Thomas Nelson and Sons, Ltd._
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -68,7 +68,7 @@ It should never be slow or hesitant.
 <!-- /wp:verse -->
 <!-- /wp:column --><!-- wp:column -->
 <!-- wp:image {"id":1135,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/2024-11-02_121144.jpg)
+![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)
 _From the 'Mustard Seed Garden Manual of Painting'. 1679-1701._
 <!-- /wp:image -->
 <!-- /wp:column -->
@@ -114,14 +114,14 @@ _Leonardo Da Vinci, The Last Supper, c. 1498._
 Another way to depict space and distance is " **colour perspective**" where closer objects are brighter and crisper and the objects which are further away are blurrier, less saturated and less varied. This is illustrated by "Les Glaneuses" (the Gleaners) by Jean-François Millet where the women in the foreground are depicted with warmer and more detailed colours while the distance is represented with cooler, softer, greyer tones.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1138,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Jean-Francois_Millet_-_Gleaners_-_Google_Art_Project_2-scaled.jpg)
+![](/{{ site.baseurl }}/images/jean-francois-millet-gleaners-google-art-project-2.jpg)
 _Jean-François Millet, Les Glaneuses, 1857, oil on canvas._
 <!-- /wp:image --><!-- wp:paragraph -->
 
 Zhu also talks about "hidden" or "fading" perspective exemplified by William Turner's _Slave Ship_. I had never heard of this type of perspective but looking at the painting, I can see that it does not follow the principles of colour perspective (the colours in the distance remain bright and saturated) but still gives some sense of spatial arrangement (the outline of the boat appears blurrier in the distance, compared to the outlines of the metal clamps and the hands in the foreground)—what a harrowing picture...
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1141,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/959px-Slave-ship.jpg)
+![](/{{ site.baseurl }}/images/959px-slave-ship.jpg)
 _William Turner, The slave ship, 1840, oil on canvas._
 <!-- /wp:image --><!-- wp:paragraph -->
 

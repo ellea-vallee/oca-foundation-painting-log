@@ -48,7 +48,7 @@ The book shows how he often drew sketches as thumbnails on the page or focussed 
 Back to the exercise, I wanted to paint something for which I felt a connection but also allowed me to practice what I had learnt about perspective, and especially colour perspective which I learnt about during my [research task on Asian art](https://spaces.oca.ac.uk/gaellelog/category/uncategorised/research-task-perspective-in-asian-art/) (cooler and bluer tones in the background, warmer and more refined details in the foreground, as in _Les Glaneuses_ of Jean-François Millet). So in the end I chose another holiday snapshot from my summer trip to Carcans, which I took as we were walking towards the sea, hidden by a massive sand dune. I loved the colours in this picture and the composition lines. I also thought this would allow me to practice the colour perspective.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1168,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_6118-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-6118.jpeg)
 _Approach to Carcans-Plage (Personal photograph)_
 <!-- /wp:image --><!-- wp:heading -->
 ## Under study
@@ -57,7 +57,7 @@ _Approach to Carcans-Plage (Personal photograph)_
 At first I decided to "eyeball" the composition without guide, just looking at the picture and using an underpainting and a paintbrush drawing. This was done at the end of an oil painting evening class at a local adult college. I thought I could do this to get some live feedback while I was painting. This was a quick 15-minute study at the end of the session as I had finished the painting exercise early. I quite liked it because it was fresh and gestural and not a realistic rendition of the photograph but the class tutor said this was "boring". I was a bit offended (!) and left it aside for a while after that.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1169,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_6666-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-6666.jpeg)
 _Initial underpainting_
 <!-- /wp:image --><!-- wp:heading -->
 ## Working my way through
@@ -66,7 +66,7 @@ _Initial underpainting_
 I quite liked the underpainting but I couldn't completely ignore the feedback so I started to work on it. I did think the burnt umber underpainting made the painting look desaturated and muddy. I was also aware that the perspective lines and the path were only roughly inspired by the picture and the blue of the sky and the yellow of the dune were not the "right" colour.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1170,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/3148E2CA-12CE-48B6-902B-810ABF0B4F39.jpeg)
+![](/{{ site.baseurl }}/images/3148e2ca-12ce-48b6-902b-810abf0b4f39.jpeg)
 _Searching for the right shade of blue_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -79,7 +79,7 @@ In the end I gave up trying to do this unaided, I reverted to my favorite trick:
 <!-- /wp:paragraph --><!-- wp:heading -->
 ## Getting there
 <!-- /wp:heading --><!-- wp:image {"id":1171,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/IMG_6979-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-6979.jpeg)
 _Working on creating perspective through colours_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -88,7 +88,7 @@ Once I finally got the angles right, I worked on the fence and tried to use warm
 <!-- /wp:paragraph --><!-- wp:heading -->
 ## Final steps
 <!-- /wp:heading --><!-- wp:image {"id":1172,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/11/Photo_2024-11-13_091631-scaled.jpeg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _Adding final details_
 <!-- /wp:image --><!-- wp:paragraph -->
 

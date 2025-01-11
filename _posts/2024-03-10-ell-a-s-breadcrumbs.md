@@ -6,7 +6,7 @@ categories: [breadcrumb-trail, induction]
 tags: [breadcrumb-trail-challenge]
 ---
 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/Betlegeuse_gif-2.gif)
+![](/{{ site.baseurl }}/images/betlegeuse-gif-2.gif)
 _gif I created to provide an exciting entry point to the breadcrumb challenge_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -37,7 +37,7 @@ This allowed me to develop a theme around women in art, women as artists, women 
 Once I had identified the weblinks, I started to think how I would present the whole breadcrumbs and thought I wanted an engaging visual point of entry. This reminded of an image from one of my favorite films: "Beetlejuice" by Tim Burton. It does feel like joining this foundation course, I'm about to wake up my inner Beetlejuice!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":266,"width":"284px","height":"284px","sizeSlug":"medium","linkDestination":"none","align":"right","className":"is-style-default"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/Untitled_Artwork-16-edited-1.jpg)
+![](/{{ site.baseurl }}/images/untitled-artwork-1.jpg)
 _Gorilla girl digital illustration I created for the breadcrumb trail challenge._
 <!-- /wp:image --><!-- wp:paragraph -->
 

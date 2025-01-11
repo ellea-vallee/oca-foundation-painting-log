@@ -31,7 +31,7 @@ _Day, Tori. Kenny. (2016). Oil on Panel. 25 x 30 cm._
 I find there is something compelling about the life of objects, what they stand for, for good and bad. This made me reflect on what object I could pick as a subject for my still life. I was mulling this over when I came across another little book in our local second-hand bookstore: [History of the world in 100 modern objects](https://www.google.fr/books/edition/History_of_the_World_in_100_Modern_Objec/rE8mEAAAQBAJ?hl=en&gbpv=0) by journalist and writer Francesca Hornak. It's a fun read, a bit like an anthropological essay on objects you can find at your local John Lewis store! This was enough to get me going and I decided to pick the first object in the list, the Cambridge Satchel, as my subject.
 
 <!-- /wp:paragraph --><!-- wp:image {"align":"center","id":905,"sizeSlug":"full","linkDestination":"none","className":"is-resized"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/07/IMG_5483-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-5483.jpeg)
 <!-- /wp:image -->
 <!-- /wp:group --><!-- wp:heading {"className":"wp-block-heading"} -->
 ## Process
@@ -48,7 +48,7 @@ I do own an old satchel which is very similar to, but not quite, a Cambridge sat
 [![](https://i1.wp.com/oca-wp-journals.s3.eu-west-2.amazonaws.com/wp-content/uploads/sites/5355/2024/07/IMG_5138-scaled.jpeg?ssl=1)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/07/IMG_5138-scaled.jpeg)
 
 <!-- /wp:jetpack/tiled-gallery --><!-- wp:image {"id":907,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/07/2024-06-22_164656-scaled.jpeg)
+![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)
 _Preparatory study. Graphite pencil on paper. 29.7 x 21 cm_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -97,35 +97,35 @@ I really liked this quote. It helped me overcome my fear of not getting this rig
 I felt I had to move on rather than complete an acrylic painting and then start over again with an oil painting as originally planned. I figured acrylic was like a gesso so I could mix the two and apply the oil painting on top of the acrylic ground. I used a small angular nylon brush and decided to experiment with mixing my paint with oil and with a diluent. I was aiming to get a graded shadow using the high contrast black and white photograph as a guide.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":926,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/07/IMG_5405-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-5405.jpeg)
 _Using an angular 1/8 brush for the shadows_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 I used Sennelier Rive Gauche oil paint in raw umber. I'm not sure this is top quality paint. Mostly I got oil out first, without the pigment and then I had to work at it to mix them back together. But once this was done, it was nice and fluid. I started by applying the darkest shadow on the right. Then I tried to mix my paint with oil to create a gradient. It worked relatively well (the middle horizontal shadow) but it was difficult to get a smooth transition. Then I thought I would try mixing paint with the diluent. This did not help me achieve a smooth gradient at all (the shadow by the right buckle)! Instead, it created a rough edge, and added texture through the canvas. It felt I was lifting the paint off, a bit like you can lift moist watercolor with a dry brush. As I was trying, and failing, at creating a smooth gradient with the diluent, I ended up pulling too much of the brown by the right buckle and getting a transparent dark glaze which looked like the bag was dirty. But that mistake turned into an idea: my satchel, rather than looking pristine like in the commercial ad, could look even more roughened up, as a used object that had a life and went to work! So rather than trying to fix that mistake up, I embraced it and applied diluted transparent paint all over the satchel, Dionysos stroke again.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":927,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/07/Photo_2024-07-21_192853-scaled.jpeg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _The Cambridge Satchel, phase 2._
 <!-- /wp:image --><!-- wp:paragraph -->
 
 I could have stopped there but I still had the holes below the buckles and the stitches to paint, and I wanted the highlights to be more refined. I also didn't like that the satchel appeared to float. I knew I needed to work on the background.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":928,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/07/Photo_2024-07-23_095705-scaled.jpeg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _the Cambridge Satchel, phase 3_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 The next day I continued to work and decided to "place" the satchel on the floor, against a skirting board. I also roughed up the back wall to give it texture and worked on the shadows underneath and the highlights. I mixed alizarin crimson, raw umber and white for the floor and added the stitches. The pink is a slightly less cool pink hue on this photograph, but it is closer to the real colours. It looked more finished but I was struggling with the bottom shadow because the floor was too fresh and I kept muddying them together. The white highlight on the right buckle was also too fuzzy. And the top of the satchel was not rounded enough. I also struggled with the stitches (even though it was quite meditative to paint them!) because I needed to rest my hand to make them with a tiny brush but then I kept staining what I had just done somewhere else... I also chose not to wait until the holes had dried up so the stiches did not look too pristine, although at times it really looked muddy... It was time to stop.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":929,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/07/IMG_5484-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-5484.jpeg)
 _Practicing the stitch and brush over technique to blend values_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 The next day I felt I needed some tutoring to learn how to blend oil. I found a tutorial from thevirtualinstructor.com on blending oil paint with the "stitch method" using a clean filbert brush to pull the different values across the shapes and then a softer nylon brush over the transitions without colour or medium.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":930,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/07/Photo_2024-07-30_094421-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/07/Photo_2024-07-30_094421-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/07/Photo_2024-07-30_094421-scaled.jpeg)
 _Cambridge Satchel, Oil and Acrylic on canvas. 21 x 29.7 cm._
 <!-- /wp:image --><!-- wp:paragraph -->
 

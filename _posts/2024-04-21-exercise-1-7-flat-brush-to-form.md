@@ -23,7 +23,7 @@ _Spackman, Sarah (undated). Three lemons._
 In practice, however, this is another story and I found this exercise quite daunting because even though the result looks quite fluid, I got the feeling each brush stroke had to be quite deliberate whereas (I have come to realise) I am more intuitive when I paint. Perhaps it's who I am, or perhaps it is because I am not an expert (or likely, a bit of both, of course!). I do wish I could be more deliberate and able to use the flat brush to form technique as I really admire Cezanne's work (who doesn't?). I even researched artists for inspiration, and came across [Sarah Spackman](https://www.sarahspackman.com)'s paintings which I found absolutely wonderful, the brush strokes, the lighting, the colour palette. I also looked for tutorials online and an [interesting YouTube channel](https://www.youtube.com/watch?v=q6Fh07zQ2KU&t=93s) with tips and advice. Still, when it came to apply the tips or the from a "live" still life, it all seemed rather daunting.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":723,"width":"313px","height":"417px","sizeSlug":"full","linkDestination":"none","align":"right"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/IMG_7174-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-7174.jpeg)
 _Note to self to learn more about Wabi-Sabi, 2022_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -38,17 +38,17 @@ In the end, after much overthinking (aka procrastination!), I missed my self-imp
 <!-- /wp:paragraph --><!-- wp:columns -->
 <!-- wp:column -->
 <!-- wp:image {"id":724,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/IMG_4213-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4213.jpeg)
 _False Christmas cactus (reference photo)_
 <!-- /wp:image -->
 <!-- /wp:column --><!-- wp:column -->
 <!-- wp:image {"id":725,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/IMG_4216-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4216.jpeg)
 _False Christmas cactus (rough graphite sketch)_
 <!-- /wp:image -->
 <!-- /wp:column -->
 <!-- /wp:columns --><!-- wp:image {"id":729,"width":"307px","height":"230px","sizeSlug":"full","linkDestination":"none","align":"left","style":{"color":{"duotone":"unset"}}} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/IMG_4224-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4224.jpeg)
 <!-- /wp:image --><!-- wp:paragraph -->
 
 I painted from life rather than the photo and limited my colour palette to the primary colours (ultramarine blue, cadmium red, cadmium yellow) complemented with raw umber and white. I also restricted my use of brushes to flat bristle brushes in different sizes. I now also have solvent and a pot to keep it in, a glass palette for mixing (that is, a cheap cutting board!), and a piece of cotton tissue to wipe the brushes. It still isn't the ideal setting (half on the floor) and I am struggling to make my environment fit my practice but I'm progressing! Perhaps I should register for a live oil painting workshop so I can learn something as basic as how to set up your working environment!
@@ -56,17 +56,17 @@ I painted from life rather than the photo and limited my colour palette to the p
 <!-- /wp:paragraph --><!-- wp:columns -->
 <!-- wp:column -->
 <!-- wp:image {"id":727,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/IMG_4227-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4227.jpeg)
 <!-- /wp:image -->
 <!-- /wp:column --><!-- wp:column -->
 <!-- wp:image {"id":728,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/IMG_4225-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4225.jpeg)
 <!-- /wp:image -->
 <!-- /wp:column -->
 <!-- /wp:columns --><!-- wp:heading -->
 ## The painting
 <!-- /wp:heading --><!-- wp:image {"id":730,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/Photo_2024-04-20_131354-scaled.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/Photo_2024-04-20_131354-scaled.jpg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/Photo_2024-04-20_131354-scaled.jpg)
 <!-- /wp:image --><!-- wp:paragraph -->
 
 I ended up spending probably a couple hours on this painting (so much for working quickly!). I started with mixing the greens but then felt I needed to mix the grays for the background. Only when I was in the midst of it, I realised I was possibly giving myself a challenge too big to bite, trying to paint a white pot against a white window sill!

@@ -29,7 +29,7 @@ Then again, I happened to visit the National Gallery over the weekend and notice
 
 <!-- /wp:paragraph --><!-- wp:gallery {"linkTo":"none","align":"wide"} -->
 <!-- wp:image {"id":759,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/IMG_4366-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4366.jpeg)
 _Detail 1 of Van Gogh's Chair (1888)_
 <!-- /wp:image --><!-- wp:image {"id":761,"sizeSlug":"full","linkDestination":"none"} -->
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/IMG_4364.jpeg)
@@ -74,7 +74,7 @@ In the end, I had gone about the layering the wrong way! Reflecting on the quote
 The final image is far off from Wayne's original, but after completing the study, I'm wondering if Thibault had produced the whole painting with paint knifes. I'm wondering whether it's possible that the frosty top was made with a paint brush. Perhaps also the fact I used acrylics rather than oil paint may also have made a difference. I cannot say I'm really pleased with the result but it was interesting to have a go at this!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":758,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/Photo_2024-04-29_144034-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/Photo_2024-04-29_144034-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/Photo_2024-04-29_144034-scaled.jpeg)
 _Impasto cupcake study, after Wayne Thiebaud_
 <!-- /wp:image --><!-- wp:heading -->
 ## Key learnings and reflections

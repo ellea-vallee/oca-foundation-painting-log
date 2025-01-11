@@ -154,7 +154,7 @@ For the second study, I aimed to focus on sticking to time (because I need to mo
 In terms of the composition, I tried to use the 3 x 3 grid to position the window and the wall. I kept redoing the wall. It's just a study and there was not much I liked about it at first. I wanted to use sgraffito for the bricks but it's quite difficult to make straight lines! I ended up doing and redoing it again but I least I got a good feel for the tools I have to create texture! I also used more than a brush, at time moving paint with a cloth or my finger. The lines are still not where I want them to be (in harmony with the lines of the window) but I decided to let it go. I know I have more than enough work to move on to Part 4!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1228,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/IMG_8140-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-8140.jpeg)
 <!-- /wp:image --><!-- wp:paragraph -->
 
 If I had more time, I would rework the wall (again) and work on the details of the bricks and the branches, paying attention to the light and shadows. Perhaps I would figure out a way to print a large scale version of my photo and use carbon paper to trace it again. Having a strong drawing foundation helps I think. I also think working on larger surfaces forces me out of the details. I don't find it so satisfying. I now understand how paintings can take 80 hours or more!

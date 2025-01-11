@@ -243,7 +243,7 @@ For the final collage, I aim to find a narrative with a story arc to have anothe
 <!-- /wp:paragraph --><!-- wp:heading -->
 ## Collage 4: Personal Choice
 <!-- /wp:heading --><!-- wp:image {"id":1283,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/img_8318-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/img_8318-1.jpg)
+[![](/{{ site.baseurl }}/images/img-8318-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/img_8318-1.jpg)
 _As you like it. 2024, collage on paper card._
 <!-- /wp:image --><!-- wp:heading -->
 ## Intention

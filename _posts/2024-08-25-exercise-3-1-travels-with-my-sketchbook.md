@@ -21,7 +21,7 @@ I collected shots during our summer vacation in France and edited them on my pho
 <!-- /wp:paragraph --><!-- wp:heading -->
 ## Study 1 - Pine trees
 <!-- /wp:heading --><!-- wp:image {"id":1020,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6143-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6143-1.jpg)
+[![](/{{ site.baseurl }}/images/img-6143-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6143-1.jpg)
 _Graphite on 180gm drawing paper (16 x 12 cm)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -32,7 +32,7 @@ I feel a little challenged by this exercise. I think I felt more comfortable wit
 I didn't have the patience or the time to draw the foliage and reverted to a "squiggle" which is a pattern I like to use. I was trying to have variations in value and started with the lines which were what attracted me to the composition in the first instance.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1022,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/image-1.jpg)
+![](/{{ site.baseurl }}/images/image-1.jpeg)
 _Reference image (personal photograph) with grid overlay_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -41,14 +41,14 @@ Looking at the reference image I can see lots of differences, some of my lines w
 <!-- /wp:paragraph --><!-- wp:heading -->
 ## Study 2 - Lake view
 <!-- /wp:heading --><!-- wp:image {"id":1024,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6223-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6223-1.jpg)
+[![](/{{ site.baseurl }}/images/img-6223-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6223-1.jpg)
 _Graphite on 180gsm drawing paper (16 x 12 cm)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 For this study I set a 10-minute timer to challenge myself to focus on values, forms and lines without worrying about the details. I did extend the time so all in all this probably took me 20 minutes but I was able to capture the essence, somewhat. The composition works possibly because of the foreground vegetation, water in the middle ground and island in the background. Still I find the composition a little unoriginal. I'm not sure how I could have made it more interesting.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1026,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6267-1.jpg)
+![](/{{ site.baseurl }}/images/img-6267-1.jpg)
 _Reference image (personal photograph) with grid overlay_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -57,14 +57,14 @@ I used the same approach with the grid. This helped me stay somewhat close to th
 <!-- /wp:paragraph --><!-- wp:heading -->
 ## Study 3 - Reflections
 <!-- /wp:heading --><!-- wp:image {"id":1027,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6140-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6140-1.jpg)
+[![](/{{ site.baseurl }}/images/img-6140-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6140-1.jpg)
 _Watercolour on 180 gsm drawing paper (12 x 16 cm)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 For this study, I decided to use watercolour paint. One morning I noticed a beautiful reflection in the swimming pool of our holiday rental. I only had thin paper available for the study but this made me conscious not to load my brush with too much water. I started with a light pencil drawing to get the shape of the ladder. I also attempted to render the values from the wood and the filter. It's still a little clumsy, especially the metal tubes on the right. Yet I think I like this the most so far. I find the fact that the actual trees are cropped make an interesting paradox which is resolved once the eyes look at the ladder and the reflection.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1028,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6269-1.jpg)
+![](/{{ site.baseurl }}/images/img-6269-1.jpg)
 _Reference image (personal photograph) with grid overlay_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -73,29 +73,29 @@ In terms of the composition, however, I didn't quite manage to stick to the grid
 <!-- /wp:paragraph --><!-- wp:heading -->
 ## Study 4 - Tree by the lake
 <!-- /wp:heading --><!-- wp:image {"id":1029,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6221-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6221-1.jpg)
+[![](/{{ site.baseurl }}/images/img-6221-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6221-1.jpg)
 _Neocolor ii wax pastels on 180 gsm drawing paper (16 x 12 cm)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 For my third study I picked another view of the lake with a tree in the foreground. This was as much an exercise in composition as an experiment with the Caran d'Ache Neocolor ii water-soluble pastels. I enjoyed playing around with them first using them to add values and then using a moist brush to mix the colours on paper. I only tried out a small box set so I was limited with the hues but it was an interesting medium. I liked the effect and textures that the wax pigments created, for example on the tree trunk. As a composition study however I found it to be a little boring and uninspiring but perhaps that's also because the colours didn't quite work together and I was limited by the colours available in the small set—I much preferred the colours of the original photograph!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1030,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6271-1.jpg)
+![](/{{ site.baseurl }}/images/img-6271-1.jpg)
 _Reference image (personal photograph) with grid overlay_
 <!-- /wp:image --><!-- wp:heading -->
 ## Study 5 - On the road
 <!-- /wp:heading --><!-- wp:image {"id":1032,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6273-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6273-1.jpg)
+[![](/{{ site.baseurl }}/images/img-6273-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6273-1.jpg)
 _Ink drawing on 300 gsm cold-press paper (20 x 14 cm)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 For this next study I also experimented with new materials and used black Chinese ink, a goat hair brush and an ink pen. I decided to leave the grid aside as the composition was less challenging: it was a road surrounded by the forest at sunset, which we took on the way back from the beach. I really enjoyed the high contrast i could easily create with the medium. The final image is not quite the same as the reference but I didn't mind so much. I was having fun creating contrasts of darker and lighter areas. I know I could have made the white lines a little more in perspective. This is where a grid would have helped.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1034,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6274-1.jpg)
+![](/{{ site.baseurl }}/images/img-6274-1.jpg)
 _Reference image (personal photograph)_
 <!-- /wp:image --><!-- wp:image {"id":1036,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/image-1-1.jpg)
+![](/{{ site.baseurl }}/images/image-1.jpeg)
 _Materials used for this study_
 <!-- /wp:image --><!-- wp:heading -->
 ## Study 6 - Low light shadows 
@@ -104,7 +104,7 @@ _Materials used for this study_
 For this study I picked this snapshot from a walk in Castelnau-de-Médoc in the early sunny morning hours. I spotted this street light and the extended shadow on the vestiges of a plant on the wall. The funny thing is I don't remember snapping that image (I can get in flow mode when I start snapping away!) but looking back at my collection, this one stood out in terms of composition. It's uncanny that I was there when the shadow of the lamp fell exactly on the plant!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1039,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6284-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6284-1.jpg)
+[![](/{{ site.baseurl }}/images/img-6284-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/img_6284-1.jpg)
 _Mixed media study on 300 gsm drawing paper (12 x 16 cm)_
 <!-- /wp:image --><!-- wp:paragraph -->
 

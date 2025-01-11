@@ -56,7 +56,7 @@ Looking back through my phone pictures, I found a picture I took of my daughter 
 I started with a few vignette pencil drawings in my sketchbook using the photograph on my phone as a reference and experimenting with different viewpoints by cropping the image.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1361,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/document_2025-01-09_063547-1.jpg)
+![](/{{ site.baseurl }}/images/document-2025-01-02-105555-1.jpeg)
 <!-- /wp:image --><!-- wp:paragraph -->
 
 Then I thought working from the phone was too limiting. I wanted to be able to look at an image. I also wanted to work from a filtered image, with "vintage" colours like in Wes Anderson's work.
@@ -74,7 +74,7 @@ I first tried to transfer the image loosely on the canvas through brush strokes 
 Next I reverted to transfer from tracing paper.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1363,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/apc_0081-1.jpg)
+![](/{{ site.baseurl }}/images/apc-0081-1.jpg)
 <!-- /wp:image --><!-- wp:paragraph -->
 
 But I realised I didn't enjoy that process and somehow was missing collage. So I decided to use the same approach as I did for my self portrait but this time use a faint photograph as an underpainting.
@@ -105,7 +105,7 @@ The result was a bit better. Although it was still quite a bit bubbly, I really 
 
 <!-- /wp:paragraph --><!-- wp:gallery {"linkTo":"none"} -->
 <!-- wp:image {"id":1367,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/img_8786-1.jpg)
+![](/{{ site.baseurl }}/images/img-8786-1.jpg)
 <!-- /wp:image --><!-- wp:image {"id":1366,"sizeSlug":"large","linkDestination":"none"} -->
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/img_8779.jpg)
 <!-- /wp:image -->
@@ -165,7 +165,7 @@ I asked a LLM about this and within two prompts I got an answer (isn't this tech
 This gave me lots of food for thought. I actually like the idea of cooking my own paste! I also then searched for poster paste technique and found [an article in the New York Times](https://www.nytimes.com/2020/06/09/magazine/how-to-wheat-paste-posters.html#:~:text=Print%20your%20poster%20on%20thin,over%20the%20top%20to%20seal.) (probably one of a source for the LLM!). So I plan to see if I can use this for the next exercise.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1368,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/img_8789-1.jpg)
+![](/{{ site.baseurl }}/images/img-8789-1.jpg)
 _Wet photo collage on canvas board. 22 x 30cm_
 <!-- /wp:image --><!-- wp:heading -->
 ## Reflections
@@ -181,6 +181,6 @@ _Wet photo collage on canvas board. 22 x 30cm_
 PS. I wrote the blog when the collage was still wet but when I returned to the piece later on, the medium had dried and the bubbles had gone.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1374,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/img_8801-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/img_8801-1.jpg)
+[![](/{{ site.baseurl }}/images/img-8801-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/img_8801-1.jpg)
 _Photo collage on canvas board. 22 x 30 cm_
 <!-- /wp:image -->

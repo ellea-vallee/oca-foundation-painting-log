@@ -33,11 +33,11 @@ I also wanted to take my time and I decided to work from a photograph so my refe
 I took a few pictures with my phone to look at arrangements and composition. I was going by instinct and some "rules of thumbs" I have learnt from online tutorials such as "use an odd number". I settled for one photograph but I didn't like the colours so much so I used a photo editing app until I was happy with the colours and contrasts.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":867,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/img_0095-1.png)
+![](/{{ site.baseurl }}/images/img-0095-1.png)
 _Three citruses (colour)_
 <!-- /wp:image --><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap"}} -->
 <!-- wp:image {"id":866,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/img_4982_jpg-1.jpg)
+![](/{{ site.baseurl }}/images/img-4982-jpg-1.jpg)
 _Three citruses (B&W)_
 <!-- /wp:image -->
 <!-- /wp:group --><!-- wp:heading {"className":"wp-block-heading"} -->
@@ -47,7 +47,7 @@ _Three citruses (B&W)_
 Next I decided to draw the composition before painting it. I'm more comfortable with drawing than painting and I thought it would prepare me better if I focussed on the shapes and values with a pencil first.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":868,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/2024-06-03_083550-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/2024-06-03_083550-1.jpg)
+[![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/2024-06-03_083550-1.jpg)
 _Three citruses. Graphite on paper._
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -132,7 +132,7 @@ It was helpful to work from the primary colours and think about darkening with b
 By the end of the session my palette was quite messy and after a while it stopped "thinking", I was just "searching" for values. So much so that it's hard to say how I got where I got once I was "in the flow" of it, but I very much enjoyed it!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":881,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-09_145352-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-09_145352-1.jpg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-09_145352-1.jpg)
 _Three citruses (penultimate stage)_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -157,7 +157,7 @@ A week later, I went back to the lemon and added a few touches of yellow tints t
 The difference is hardly noticeable but I'm more satisfied with the final result now!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":883,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-23_183755-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-23_183755-1.jpg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/06/photo_2024-06-23_183755-1.jpg)
 _Three citruses, 2024, Oil on Canvas, 9 x 12 inches._
 <!-- /wp:image --><!-- wp:heading {"className":"wp-block-heading"} -->
 ## Key learnings

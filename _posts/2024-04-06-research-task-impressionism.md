@@ -19,31 +19,31 @@ I've chosen to focus on Mary Cassatt and Berthe Morisot, two of the three great 
 The first painting I studied was Mary Cassatt's "_Little Girl in a Blue Armchair_".
 
 <!-- /wp:paragraph --><!-- wp:image {"id":444,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/little_girl_in_a_blue_armchair_1983.1.18-1024x686.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/little_girl_in_a_blue_armchair_1983.1.18-scaled.jpg)
+[![](/{{ site.baseurl }}/images/little-girl-in-a-blue-armchair-1983-1-18.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/little_girl_in_a_blue_armchair_1983.1.18-scaled.jpg)
 _Cassatt, Mary. Little Girl in a Blue Armchair. 1878, oil on canvas, National Gallery of Art, Washington DC, USA._
 <!-- /wp:image --><!-- wp:paragraph -->
 
 The painting captures a serene yet dynamic ambiance, typical of impressionist style, with vibrant, sketchy brush marks in blue and turquoise, particularly evident on the blue armchairs patterns, adding a dynamic dimension to the overall tranquility of the scene (see close-up below). The foreground shows a little girl who appears dressed in fine clothes but bored and "slouched" on a padded armchair in a room that is crowded with more armchairs and a small sofa but otherwise free of personal belongings.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":446,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/image-2-1024x685.png)
+![](/{{ site.baseurl }}/images/image-1.jpeg)
 _A close-up of the painting showing the dynamic strokes used to suggest the drapes and bright patterns of the blue armchairs_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 The lighter strokes for the little dog make it appear soft and fluffy.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":447,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/image-3-1024x685.png)
+![](/{{ site.baseurl }}/images/image-1.jpeg)
 _Details of the strokes to create the dog fur_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 I can see two light sources, one coming from behind the painter onto the little girl and casting a hard shadow under her leg. This light is bright and white. Then there is a backlight coming from the window at the back of the scene. This light is toned down a bit, using more light grey (or pastel green?) and unbleached titanium hues.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":448,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/Untitled_Artwork-1024x683.jpg)
+![](/{{ site.baseurl }}/images/untitled-artwork-1.jpg)
 _Observation of the light on the little girl_
 <!-- /wp:image --><!-- wp:image {"id":449,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/Untitled_Artwork-1.jpg)
+![](/{{ site.baseurl }}/images/untitled-artwork-1.jpg)
 _Observation of the backlight from the window_
 <!-- /wp:image --><!-- wp:heading -->
 ## Girl on a Divan
@@ -64,7 +64,7 @@ The "divan" offers a soft contrast to the blue wall and is also presented with b
 There appears to be no white, the highlights on the subject's dress's lace seem to be rendered in very light orange (?) and the midtones are blue-grey. The dress creases are represented very loosely with blue and orange shadows. The face has very soft highlights and midtowns seem green. Only the eyelashes, fine eyebrows and the pupils stand out in black and only the forehead and the eyelids are a light pink, same as the nose and the mouth, which stands out, giving a feeling of liveliness that is at odd with the greenish highlights on the rest of her face. I really like this painting. It reminds me of Tolstoi's character, Anna Karenina. There is a rich life in this woman's mind!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":452,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/image-4-edited.png)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/image-4-edited.png)
+[![](/{{ site.baseurl }}/images/image-1.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/image-4-edited.png)
 _Morisot, Berthe. Jeune Femme au Divan (Girl on a Divan). c. 1885, Oil on canvas, Tate, London, UK_
 <!-- /wp:image --><!-- wp:heading {"level":3} -->
 ### Additional resources on Mary Cassatt and Berthe Morisot

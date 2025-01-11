@@ -31,7 +31,7 @@ _Our (previous) kitchen. Fineliner ink pen one-point perspective drawing on A4 p
 <!-- /wp:image -->
 <!-- /wp:column --><!-- wp:column -->
 <!-- wp:image {"id":1093,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/09/IMG_3972-1.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/09/IMG_3972-1.jpeg)
+[![](/{{ site.baseurl }}/images/img-3972-1.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/09/IMG_3972-1.jpeg)
 _One-point perspective drawing of a holiday hotel corridor. Graphite on A4 paper_
 <!-- /wp:image -->
 <!-- /wp:column -->
@@ -63,14 +63,14 @@ So instead of struggling to do this, I decided to do some research and explore o
 Paradoxically, I do love how Matisse’s paintings of interiors and especially how he distorted perspective. I visited the MoMa once and have a print of his [Goldfish and Sculpture](https://www.moma.org/collection/works/79117). I love the way he used converging lines to suggest the room, but also breaking all rules of what you would expect to see, with the vase and fish bowl seemingly too large, almost like a collage, compared to the woman body and yet the whole composition still looks so harmonious, now that’s interesting! I am not sure why but I feel the converging lines have something to do with it, as well as the masses and contrasting vibrant colours. The shelf on the wall also appears “squashed” but its presence suggests a wall. I’m fascinated by this painting.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1100,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/img_0114-1.jpg)
+![](/{{ site.baseurl }}/images/img-0114-1.jpg)
 _Henri Matisse, Goldfish and sculpture, 1912, Oil on Canvas._
 <!-- /wp:image --><!-- wp:paragraph -->
 
 [Apparently](https://www.moma.org/collection/works/79117), he was grounding his work in observation but, because of the invention of photography, he said his job was no longer to depict what the world looks like. I’m also aware that he, like Picasso, was extremely good at following the rules before breaking them. His early painting “La liseuse” or “the woman reader” is a case in point. The lighting is amazing on her neck, the book and the sculpture on the sideboard, creating a triangle you can't escape from. It’s messy and busy, and yet somehow not overwhelming but evocative of a sense of calmness, again so much to explore in this interior.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1101,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/img_0115-1.jpg)
+![](/{{ site.baseurl }}/images/img-0115-1.jpg)
 _Henri Matisse, La liseuse, 1895, Oil on board._
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -110,10 +110,10 @@ _Set-up for my second study_
 I like their versatile nature. I start by sketching roughly and then I work with water to move the pigments around. It's not as unpredictable as watercolor but not as precise as oil paint. It's a good material to loosen me up a bit.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1109,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/2024-10-19_110553-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/2024-10-19_110553-1.jpg)
+[![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/2024-10-19_110553-1.jpg)
 _Interior Study II. Watercolour pastels on 300gsm cold-press paper, 20 x 14cm_
 <!-- /wp:image --><!-- wp:image {"id":1110,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/businesscard_2024-10-19_122234-1.jpg)
+![](/{{ site.baseurl }}/images/businesscard-2024-05-24-134549.jpeg)
 _Using a colour wheel to help me think through colour schemes_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -128,12 +128,12 @@ Reflecting on the composition, while Matisse's Paintings seem to have a triangle
 <!-- /wp:heading --><!-- wp:columns -->
 <!-- wp:column -->
 <!-- wp:image {"align":"center","id":1114,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/IMG_6792-1-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-6792-1.jpeg)
 _Set-up for Study III_
 <!-- /wp:image -->
 <!-- /wp:column --><!-- wp:column -->
 <!-- wp:image {"align":"center","id":1118,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/IMG_6769-1-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-6769-1.jpeg)
 _Prompt for Study III_
 <!-- /wp:image -->
 <!-- /wp:column -->
@@ -144,7 +144,7 @@ For study 3, I explored using a different source. My daughter loves to build hou
 <!-- /wp:paragraph --><!-- wp:columns -->
 <!-- wp:column {"width":"100%"} -->
 <!-- wp:image {"id":1115,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/2024-10-20_104438-scaled.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/2024-10-20_104438-scaled.jpg)
+[![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/2024-10-20_104438-scaled.jpg)
 _Study III - Rough study of a Lego interior. Charcoal on 300 gsm cold press paper, 14 x 20cm._
 <!-- /wp:image -->
 <!-- /wp:column -->
@@ -157,7 +157,7 @@ For this last study, I decided to use a photograph from the interior decor book 
 <!-- /wp:paragraph --><!-- wp:columns -->
 <!-- wp:column -->
 <!-- wp:image {"id":1119,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/10/IMG_6795-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-6795.jpeg)
 <!-- /wp:image -->
 <!-- /wp:column --><!-- wp:column -->
 <!-- wp:paragraph -->

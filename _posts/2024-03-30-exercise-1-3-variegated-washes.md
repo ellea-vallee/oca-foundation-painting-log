@@ -18,9 +18,9 @@ My first variegated wash was using diluted acrylic paint, a mix of primary yello
 
 <!-- /wp:paragraph --><!-- wp:gallery {"linkTo":"none","align":"full"} -->
 <!-- wp:image {"id":523} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3927-768x1024.jpg)
+![](/{{ site.baseurl }}/images/img-3927.jpg)
 <!-- /wp:image --><!-- wp:image {"id":522} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3844-1-1024x768.jpg)
+![](/{{ site.baseurl }}/images/img-3844-1.jpg)
 <!-- /wp:image -->
 _Experiment #1 - Acrylic variegated wash_
 <!-- /wp:gallery --><!-- wp:paragraph -->
@@ -31,17 +31,17 @@ I really liked the bright colours and the soft effect of the wet on wet blending
 ### Experiment #2
 <!-- /wp:heading --><!-- wp:gallery {"linkTarget":"_blank","linkTo":"none","align":"full","backgroundColor":"cyan-bluish-gray"} -->
 <!-- wp:image {"id":524,"linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3850-1-1024x721.jpg)
+![](/{{ site.baseurl }}/images/img-3850-1.jpg)
 <!-- /wp:image --><!-- wp:image {"id":525,"linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3928-768x1024.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3928-768x1024.jpg)
+[![](/{{ site.baseurl }}/images/img-3928-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3928-768x1024.jpg)
 _100gsm thin paper_
 <!-- /wp:image --><!-- wp:image {"id":526,"linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3929-1024x768.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3929-1024x768.jpg)
+[![](/{{ site.baseurl }}/images/img-3929-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3929-1024x768.jpg)
 _300 gsm printing paper_
 <!-- /wp:image --><!-- wp:image {"id":531,"linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3934-1-768x1024.jpg)
+![](/{{ site.baseurl }}/images/img-3934-1.jpg)
 <!-- /wp:image --><!-- wp:image {"id":532,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/image-1.jpg)
+![](/{{ site.baseurl }}/images/image-1.jpeg)
 <!-- /wp:image -->
 _Experiment #2 - Watercolour ink_
 <!-- /wp:gallery --><!-- wp:paragraph -->
@@ -66,9 +66,9 @@ I noticed though the effects kept evolving on the print paper and what I got in 
 ### Experiment #3
 <!-- /wp:heading --><!-- wp:gallery {"linkTarget":"_blank","linkTo":"media","align":"full"} -->
 <!-- wp:image {"id":535,"linkDestination":"media"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3849-1-1024x469.jpg)
+![](/{{ site.baseurl }}/images/img-3849-1.jpg)
 <!-- /wp:image --><!-- wp:image {"id":536,"linkDestination":"media"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3930-1024x768.jpg)
+![](/{{ site.baseurl }}/images/img-3930.jpg)
 <!-- /wp:image -->
 _Blotting with a natural sponge_
 <!-- /wp:gallery --><!-- wp:paragraph -->
@@ -79,9 +79,9 @@ For this experiment I started with a turquoise acrylic wash and then used a natu
 ### Experiment 4
 <!-- /wp:heading --><!-- wp:gallery {"columns":1,"imageCrop":false,"linkTo":"none","align":"wide"} -->
 <!-- wp:image {"id":538,"linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3866-1-1024x769.jpg)
+![](/{{ site.baseurl }}/images/img-3866-1.jpg)
 <!-- /wp:image --><!-- wp:image {"id":537} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3865-1-768x1024.jpg)
+![](/{{ site.baseurl }}/images/img-3865-1.jpg)
 <!-- /wp:image -->
 _Blotting with a paper towel on Yupo paper_
 <!-- /wp:gallery --><!-- wp:paragraph -->
@@ -98,7 +98,7 @@ For this I used watercolour paper and a watercolour set with many shades of colo
 
 <!-- /wp:paragraph --><!-- wp:media-text {"mediaId":541,"mediaType":"image"} -->
 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3931-768x1024.jpg)
+![](/{{ site.baseurl }}/images/img-3931.jpg)
 
 <!-- wp:paragraph -->
 
@@ -117,7 +117,7 @@ I find it difficult to stop. I enjoy spending time interacting with paint. Someh
 For this experiment, I used a Schminke "horadam" watercolour tester set and played around with layers of analogous colours using a smaller but better quality brush. This is possibly my favourite experiment so far. I like the graduations and the vibrancy of the colours. I also enjoyed lifting colours at the bottom.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":544,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3932-768x1024.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3932-768x1024.jpg)
+[![](/{{ site.baseurl }}/images/img-3932.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3932-768x1024.jpg)
 _Experiment #6 - side by side variegated washes_
 <!-- /wp:image --><!-- wp:heading {"className":"wp-block-heading"} -->
 ## Final reflections

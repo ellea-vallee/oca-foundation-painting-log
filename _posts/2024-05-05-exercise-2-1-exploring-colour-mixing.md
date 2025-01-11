@@ -12,7 +12,7 @@ tags: [acrylic-painting, learning-log, mark-making, oil-painting]
 In this exercise, I mixed colours and applied them to a small board. I began with oil colours from a small student set. At first, I decided to work with two sets of yellow, red, and blue: ultramarine, crimson, and naples yellow on the one hand, cerulean blue, cadmium light red, and cadmium yellow, on the other.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":786,"sizeSlug":"full","linkDestination":"none","className":"is-resized"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-02_194555-scaled.jpeg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _Paint and tools I used for the colour mixing_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -34,14 +34,14 @@ _Mixing paint experiment_
 I enjoyed playing with the paint samples and created a digital collage for fun!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":788,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Untitled-1.png)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Untitled-1.png)
+[![](/{{ site.baseurl }}/images/untitled-1.png)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Untitled-1.png)
 _Digital collage_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 Next I wanted to better understand the idea of "muted" and "vibrant" mixes so I followed the prompts and designed a chart to compare the results.
 
 <!-- /wp:paragraph --><!-- wp:jetpack/image-compare {"imageBefore":{"id":789,"url":"https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/2024-05-04_114946-scaled.jpeg","alt":"","width":2560,"height":1863},"imageAfter":{"id":790,"url":"https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/2024-05-04_114916.jpeg","alt":"","width":2528,"height":1840},"caption":"Muted and vivid mixes"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/2024-05-04_114946-scaled.jpeg) ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/2024-05-04_114916.jpeg)
+![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg) ![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)
 
 _Muted and vivid mixes_
 <!-- /wp:jetpack/image-compare --><!-- wp:paragraph -->
@@ -63,7 +63,7 @@ _Vivid and muted recipes for secondary colours_
 I completed the crossings prompt but I must admit I am not sure what this was meant to demonstrate. The oil was still fresh and it got all muddy. Perhaps I didn't dilute it enough or did not use the right medium to dilute it (I used linseed oil). Perhaps this is an exercise in transparency?
 
 <!-- /wp:paragraph --><!-- wp:image {"id":792,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-04_115119-scaled.jpeg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _Crossing experiment with oil paint_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -110,14 +110,14 @@ I do love these bright colours yet I am not sure why yet. Perhaps because I'm a 
 For this experiment, I divided an A5 board into 9 areas and squeezed out three different yellows (Naples yellow, primary cadmium yellow, and cadmium yellow deep hue), and blues (cerulean blue, primary phtalo blue, and ultramarine) on my palette.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":798,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/IMG_4683-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4683.jpeg)
 _Set-up for my first grid of green mixing_
 <!-- /wp:image --><!-- wp:paragraph -->
 
 The result was quite surprising. The Naples yellow mixed with the three blues to give wonderful hues of turquoise. Apart from the Naples yellow + Cerulean blue, the last two hues were more blue than green but all very marine, I really liked them! The greens mixed from primary yellow were more vibrant, very much the greens you would see in nature, but a little more "middle of the road". The last three shades were more muted and more interesting. They reminded me of Henri Rousseau's "Dream" painting.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":799,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-05_104437-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-05_104437-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-05_104437-scaled.jpeg)
 _Dark values of green mixing_
 <!-- /wp:image --><!-- wp:image {"sizeSlug":"large"} -->
 ![](https://upload.wikimedia.org/wikipedia/commons/e/eb/Henri_Rousseau_-_Le_R%C3%AAve_-_Google_Art_Project.jpg)
@@ -130,7 +130,7 @@ I felt the colours were very dark as all the blue hues were dark to begin with. 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/img_4684.jpg)
 _Second green mixing set up_
 <!-- /wp:image --><!-- wp:image {"id":803,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/photo_2024-05-05_104205-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/photo_2024-05-05_104205-1.jpg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/photo_2024-05-05_104205-1.jpg)
 _Light values of green mixing_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -151,7 +151,7 @@ I was pleased with the results. Again, I really liked the hues mixed with the Na
 To mix different hues of brown, I used three sets of red, yellows and blue: (1) Cadmium red, cadmium yellow and ultramarine; (2) cyan blue, magenta, and primary yellow; and (3) quinacridone magenta, turquoise, primary yellow and fluorescent pink. I am not a big fan of brown, except when it relates to chocolate so I used my swatches to create different shades of chocolate!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":816,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Document_2024-05-06_123056-scaled.jpeg)
+![](/{{ site.baseurl }}/images/document-2024-05-04-184001-1.png)
 <!-- /wp:image --><!-- wp:paragraph -->
 
 For the black and grey, I used two mixes: (1) ultramarine (Pebéo) and burnt umber (Daler Rowney), and (2) petal emerald + naphthol red light (Winsor & Newton). I really liked the phtalo-naphtol black. I had just read that Leonardo invented [aerial perspective](https://en.wikipedia.org/wiki/Aerial_perspective) (Bolton, 2004). This led me to explore artists who have used this technique and discover a wonderful painting by Caspar David Friedrich.
@@ -165,10 +165,10 @@ I thought I'd challenged myself to do a simple (ahem) painting in grey using dar
 
 <!-- /wp:paragraph --><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
 <!-- wp:jetpack/pinterest {"url":"https://www.pinterest.co.uk/pin/301881981245139494/sent/?invite_code=554b581f385b4d1887dff37e1017b952\u0026sender_id=1039628032639431429"} -->[https://www.pinterest.co.uk/pin/301881981245139494/sent/?invite\_code=554b581f385b4d1887dff37e1017b952&sender\_id=1039628032639431429](https://www.pinterest.co.uk/pin/301881981245139494/sent/?invite_code=554b581f385b4d1887dff37e1017b952&sender_id=1039628032639431429)<!-- /wp:jetpack/pinterest --><!-- wp:image {"id":817,"width":-137,"height":-182,"sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/IMG_4695-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-4695.jpeg)
 _Grey palette_
 <!-- /wp:image --><!-- wp:image {"id":819,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-06_121110-1-scaled.jpeg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _Paint and tools used to create an aerial perspective study_
 <!-- /wp:image -->
 <!-- /wp:group --><!-- wp:paragraph -->
@@ -176,7 +176,7 @@ _Paint and tools used to create an aerial perspective study_
 I used a photograph from Pinterest as a source of inspiration and a small canvas board. I found it amazing that you can create shades of grey from red and green, it's quite magical! The painting was a mitigated success. The shades of grey worked well but the white wall on the right confused me and in the final picture it's not clear where it stands in space. Then I think I might have ruined the effect in the end by using a black Posca pen. It added too much contrast and worked against the intended "atmospheric" effect. I tried to add a translucent of grey over it to diminish the impact of my mistake. It helped a little, I think. I let it go in the end as this was only meant as a study, not a finished piece.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":820,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-06_121138-scaled.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-06_121138-scaled.jpeg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/05/Photo_2024-05-06_121138-scaled.jpeg)
 _Aerial perspective of Parisian roofs. Acrylic on canvas board, 13 cm x 18 cm._
 <!-- /wp:image --><!-- wp:heading {"className":"wp-block-heading"} -->
 ## Final reflections

@@ -8,7 +8,7 @@ tags: [learning-log, washes]
 
 ### Experiment 1
 <!-- /wp:heading --><!-- wp:image {"align":"right","id":567,"sizeSlug":"medium","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3841_jpg-1-300x214.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3841_jpg-1.jpg)
+[![](/{{ site.baseurl }}/images/img-3841-jpg-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3841_jpg-1.jpg)
 _The lady and the kangaroo,watercolour on A4 acrylic thin paper_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -21,7 +21,7 @@ This first experiment ended up being my favourite experiment for this exercise. 
 I enjoyed experiment #1 so much I tried it again, immediately after. The result was not so successful. I liked the bright colours but the black posca pen didn't work so well and the result was a little too busy and too "cartoonish." On the positive side, it reminded me of the truffula trees of Dr Seuss's Lorax, which I always liked!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":570,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3842-1-1024x818.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3842-1.jpg)
+[![](/{{ site.baseurl }}/images/img-3842-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3842-1.jpg)
 _Flying dragon. Watercolour ink on print making paper 8 x 10 inches_
 <!-- /wp:image --><!-- wp:heading {"level":3,"className":"wp-block-heading"} -->
 ### Experiment 3
@@ -30,7 +30,7 @@ _Flying dragon. Watercolour ink on print making paper 8 x 10 inches_
 For this experiment I tried to create a "serious" landscape, to keep more in line with the original prompt for this exercise. I started with prepping the paper with water and a light blue sky wash. Next I then added a horizon line with a darker mix of black and ultramarine blue. I tried to give a sense of perspective with the lines on the right and a sense of volume for the trees by loading the paint on the right. I finished by "lifting" paint in the sky to create a cloud. The whole painting was fairly quickly done and yet the result is interesting. Still, I liked the blue-greyish colours and the fluffy trees and bushes created with the wet-on-wet strokes and created a dreamlike scene.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":572,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0004-1024x731.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0004.jpg)
+[![](/{{ site.baseurl }}/images/img-0004.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0004.jpg)
 _Dreamlike landscape. Watercolour on A4 300 gsm paper_
 <!-- /wp:image --><!-- wp:heading {"level":3,"className":"wp-block-heading"} -->
 ### Experience 4
@@ -40,9 +40,9 @@ I was looking for inspiration to try something different and was flicking throug
 
 <!-- /wp:paragraph --><!-- wp:gallery {"linkTo":"none"} -->
 <!-- wp:image {"id":574,"linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0003-1-732x1024.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0003-1.jpg)
+[![](/{{ site.baseurl }}/images/img-0003-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0003-1.jpg)
 <!-- /wp:image --><!-- wp:image {"id":573} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/2024-04-01_193455-1-777x1024.jpg)
+![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)
 <!-- /wp:image -->
 _Watercolour ink and pencil on A4 watercolour paper, after Annie Koelle (n. d.)_
 <!-- /wp:gallery --><!-- wp:heading {"level":3,"className":"wp-block-heading"} -->
@@ -53,10 +53,10 @@ I had another go at a variegated wash with watercolour, trying to "stretch" my p
 
 <!-- /wp:paragraph --><!-- wp:gallery {"linkTo":"none"} -->
 <!-- wp:image {"id":554,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3943-1-2-1024x767.jpg)
+![](/{{ site.baseurl }}/images/img-3943-1-1.jpg)
 _Materials_
 <!-- /wp:image --><!-- wp:image {"id":552} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/img_3943-1-1-1024x768.jpg)
+![](/{{ site.baseurl }}/images/img-3943-1-1.jpg)
 _Close-up_
 <!-- /wp:image -->
 _Step 1 - Background wash_
@@ -70,11 +70,11 @@ I let the background dry overnight and thought a lot (too much!) about what I co
 
 <!-- /wp:paragraph --><!-- wp:gallery {"columns":2,"linkTo":"media","sizeSlug":"full","align":"center"} -->
 <!-- wp:image {"id":563,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3951-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3951-1.jpg)
+[![](/{{ site.baseurl }}/images/img-3951.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3951-1.jpg)
 <!-- /wp:image --><!-- wp:image {"id":560,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3953-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3953-1.jpg)
+[![](/{{ site.baseurl }}/images/img-3953-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3953-1.jpg)
 <!-- /wp:image --><!-- wp:image {"id":564,"sizeSlug":"full","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3952-1-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3952-1-1.jpg)
+[![](/{{ site.baseurl }}/images/img-3952-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3952-1-1.jpg)
 _Flying fish. Watercolour on A4 paper_
 <!-- /wp:image -->
 _Step 2 - working over a light background wash_

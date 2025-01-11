@@ -16,9 +16,9 @@ I registered for an online sketching workshop by Adebanji Alade "The Addictive S
 <!-- /wp:list-item --><!-- wp:list-item -->5. finish with the highlights
 <!-- /wp:list-item -->
 <!-- /wp:list --><!-- wp:image {"id":603,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3961-774x1024.jpg)
+![](/{{ site.baseurl }}/images/img-3961.jpeg)
 <!-- /wp:image --><!-- wp:image {"id":599,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3960-1-768x1024.jpg)
+![](/{{ site.baseurl }}/images/img-3960-1.jpg)
 <!-- /wp:image --><!-- wp:paragraph -->
 
 The challenge is always to get the angles and proportions right at the start but through practice I am trying to get better at "seeing" the shapes of the shadows.
@@ -41,53 +41,53 @@ I am still working through these (keeping motivated on your own is hard!) but th
 <!-- wp:jetpack/slideshow {"ids":[592,606,672,598,604,620,674,588,669,671,617,596,594,601,618,600,597,673,595,593,589,605,670,591,602],"sizeSlug":"full"} -->
 
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/2024-02-11_175001-1-1024x713.jpg)
+![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/2024-02-12_213038-1-1024x720.jpg)
+![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)
 - 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3147.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/d7e4b3f1-2975-436b-a931-cfeeb2dc41df-1-1024x1024.jpg)
+![](/{{ site.baseurl }}/images/d7e4b3f1-2975-436b-a931-cfeeb2dc41df-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_2415-768x1024.jpg)
+![](/{{ site.baseurl }}/images/img-2415.jpeg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0625-1024x768.jpg)
+![](/{{ site.baseurl }}/images/img-0625.jpg)
 - 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0626.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/11d4203e-ece5-4470-b44f-10a168e49ff3-1-1024x1024.jpg)
+![](/{{ site.baseurl }}/images/11d4203e-ece5-4470-b44f-10a168e49ff3-1.jpg)
 - 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0522.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_9605-1.jpg)
+![](/{{ site.baseurl }}/images/img-9605-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_9574-1-724x1024.jpg)
+![](/{{ site.baseurl }}/images/img-9574-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/d3e9a038-09ee-4ae3-b43f-e96d7178e1e2-1-1024x721.jpg)
+![](/{{ site.baseurl }}/images/d3e9a038-09ee-4ae3-b43f-e96d7178e1e2-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_8757-1-683x1024.jpg)
+![](/{{ site.baseurl }}/images/img-8757-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/489bf4ca-0f0e-45e0-994e-6e8f6c5349c4-1-240x300.jpg)
+![](/{{ site.baseurl }}/images/489bf4ca-0f0e-45e0-994e-6e8f6c5349c4-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/77716e9c-bd69-4e22-bc19-2477e4422e87-1-1024x1024.jpg)
+![](/{{ site.baseurl }}/images/77716e9c-bd69-4e22-bc19-2477e4422e87-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3167-1-1024x724.jpg)
+![](/{{ site.baseurl }}/images/img-3167-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/1115efe4-f367-4d64-b423-e0933480ba3d-1-576x1024.jpg)
+![](/{{ site.baseurl }}/images/1115efe4-f367-4d64-b423-e0933480ba3d-1.jpg)
 - 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_3972.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/17a0ebb4-5810-49fe-987f-7af6bf8a66a7-1-725x1024.jpg)
+![](/{{ site.baseurl }}/images/17a0ebb4-5810-49fe-987f-7af6bf8a66a7-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0501-1-1024x1024.jpg)
+![](/{{ site.baseurl }}/images/img-0501-1.jpg)
 - 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_1316-1-1024x1024.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_1263-1-1024x1024.jpg)
+![](/{{ site.baseurl }}/images/img-1263-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_0055-1-1.jpg)
+![](/{{ site.baseurl }}/images/img-0055-1.jpg)
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/img_1027-1-1024x1024.jpg)
+![](/{{ site.baseurl }}/images/img-1027-1.jpg)
 - 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/04/d42e578d-3e48-441b-b6b6-fbee3f7b1bd3-425dcbc8-e3dd-4ce9-ae69-e41b4ccb8c69-1-1024x769.jpg)
 

@@ -13,7 +13,7 @@ I'm a foundation Painting fresher (which makes me feel very young haha). Here's 
 I will work from the family lounge to complete this course. This has grown into a studio which I share with my 9-year old who has been my art partner since she could hold a pencil!
 
 <!-- /wp:paragraph --><!-- wp:image {"id":284,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_0037-1024x709.jpeg)
+![](/{{ site.baseurl }}/images/img-0037.jpeg)
 <!-- /wp:image --><!-- wp:paragraph {"align":"left"} -->
 
 I have grown "on my own" following daily IG challenges like Inktober, online courses and tutorials, and a couple of evening adult classes for the first time, a couple of years ago. Sadly I have a very long history of starting and not finishing, but I'm always very enthusiastic at the outset and I have very much enjoyed toying with the variety of creative challenges I was given in the induction!
@@ -39,112 +39,112 @@ Looking back at what I have produced, I can see I seem to always go back to line
 <!-- wp:jetpack/slideshow {"ids":[285,293,289,313,292,300,302,306,311,307,308,310,312,315,322,305,295,294,298,287,286,317,301,309,296,288,319,316,320,297,290,304,314,291,299,303],"sizeSlug":"large","className":"@media only screen and (max-width:600px){ .soliloquy-caption {display: block !important;}}"} -->
 
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/creative-coding-001-17-1024x1024.png)
+![](/{{ site.baseurl }}/images/creative-coding-001-17.png)
 _Visual coding 101_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/Photo_2024-02-17_174348-647x1024.jpeg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _Mmh_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/2024-02-11_160620-1024x714.jpeg)
+![](/{{ site.baseurl }}/images/2024-02-11-160620.jpeg)
 _Hand drawing tutorial_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/D181843F-7714-4EFB-94E2-EA107E1EBBC4-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/d181843f-7714-4efb-94e2-ea107e1ebbc4.jpeg)
 _Dreamy tree_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/CBE3FF46-140D-4A10-80D6-1526DBBB29D2.jpeg)
+![](/{{ site.baseurl }}/images/cbe3ff46-140d-4a10-80d6-1526dbbb29d2.jpeg)
 _Blue blob_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/5428C347-0D15-4668-9847-BBD0A6B8D178-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/5428c347-0d15-4668-9847-bbd0a6b8d178.jpeg)
 _Instructions II_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_0890-614x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-0890.jpeg)
 _Holiday vibes_
 - 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_2201-732x1024.jpeg)
 _Cat man_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_2143-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-2143.jpeg)
 _Meh_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_2113-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-2113.jpeg)
 _Collaged_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_0630-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-0630.jpeg)
 _Pastel life_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_0558-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-0558.jpeg)
 _Vibrant and alive_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_0547-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-0547.jpeg)
 _Lady like_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/11D4203E-ECE5-4470-B44F-10A168E49FF3-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/11d4203e-ece5-4470-b44f-10a168e49ff3-1.jpg)
 _Thumbs_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_0626-1-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-0626.jpeg)
 _Live figure drawing_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_0319-1024x703.jpeg)
+![](/{{ site.baseurl }}/images/img-0319.jpeg)
 _The three cats_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_0086-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-0086.jpeg)
 _Gouache cat_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/28drawings_2023-02-08_073231-724x1024.jpeg)
+![](/{{ site.baseurl }}/images/28drawings-2023-02-08-073231.jpeg)
 _Negative chair_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/D3E9A038-09EE-4AE3-B43F-E96D7178E1E2-1024x721.jpeg)
+![](/{{ site.baseurl }}/images/d3e9a038-09ee-4ae3-b43f-e96d7178e1e2-1.jpg)
 _Uncharcoaled duck_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/12C803E8-C9F2-431A-8A10-557B915B6478-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/12c803e8-c9f2-431a-8a10-557b915b6478.jpeg)
 _Digital collage_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_8757-683x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-8757-1.jpg)
 _Live portrait_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/2022-10-29_120114-724x1024.jpeg)
+![](/{{ site.baseurl }}/images/2022-10-21-071058-2.jpeg)
 _Tinsellation_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/2022-10-21_071058_2-724x1024.jpeg)
+![](/{{ site.baseurl }}/images/2022-10-21-071058-2.jpeg)
 _Negative chair II_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_8027-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-8027.jpeg)
 _Daughter portrait_
 - 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/3F971B18-5C65-4176-A13E-DAAC473CF140-1024x1024.jpeg)
 _Black and white oranges_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_7914-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-7914.jpeg)
 _Fauvist cat_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_7761-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-7761.jpeg)
 _Thinking_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_7604-745x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-7604.jpeg)
 _Digital lady_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_7004-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-7004.jpeg)
 _Oil fish_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/60C67370-2D50-4BF3-BF6B-3B40082AADA2-819x1024.jpeg)
+![](/{{ site.baseurl }}/images/60c67370-2d50-4bf3-bf6b-3b40082aada2.jpeg)
 _Cat lady_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/MAE2022_011-1024x1024.png)
+![](/{{ site.baseurl }}/images/mae2022-011.png)
 _Instructions_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/BFF80586-404E-40CB-B7FC-705E79E48C24-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/bff80586-404e-40cb-b7fc-705e79e48c24.jpeg)
 _Loving cats_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_5120-768x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-5120.jpeg)
 _Artiste ratée_
 - 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_4497-1024x1024.jpeg)
 _Water play_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/2ABC8AC3-EC0A-4E61-8FAE-F8AF696C4D58-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/2abc8ac3-ec0a-4e61-8fae-f8af696c4d58.jpeg)
 _Save the planet_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_2454-1024x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-2454.jpeg)
 _Inequality_
 
 <!-- /wp:jetpack/slideshow -->

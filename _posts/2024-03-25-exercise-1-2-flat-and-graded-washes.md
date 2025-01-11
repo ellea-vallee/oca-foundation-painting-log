@@ -10,26 +10,26 @@ tags: [learning-log, washes]
 <!-- /wp:heading --><!-- wp:jetpack/slideshow {"ids":[459,460,461,465,466,467],"sizeSlug":"large"} -->
 
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3836-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-3836.jpeg)
 _Flat wash #1_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3835-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-3835.jpeg)
 _Flat wash #2_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3834-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-3834.jpeg)
 _Flat wash #3_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3833-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-3833.jpeg)
 _Flat wash #4_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3832-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-3832.jpeg)
 _Flat wash #5_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3831-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-3831.jpeg)
 _Flat wash #6_
 
 <!-- /wp:jetpack/slideshow --><!-- wp:image {"align":"left","id":463,"width":192,"height":256,"sizeSlug":"large","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3780-768x1024.jpeg)
+![](/{{ site.baseurl }}/images/img-3780.jpeg)
 <!-- /wp:image --><!-- wp:paragraph {"fontSize":"small"} -->
 
 I started with the turquoise colour and mixed a small lump with water using a paint knife. One first hurdle was to gauge the paint to water ratio. The second hurdle (there were many!) was to figure out whether you are meant to complete the flat wash in one pass or if you can go over it to smooth it.
@@ -47,7 +47,7 @@ I started with the turquoise colour and mixed a small lump with water using a pa
 **Flat wash #3.** I tried a third time and the masking tape tore the paper again. I accidentally caught some of the humid paper as well and it lifted off an entire strip! Then I went off piste thinking this created interesting shapes and had a little play!
 
 <!-- /wp:paragraph --><!-- wp:image {"align":"right","id":464,"sizeSlug":"medium","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3787-225x300.jpeg)
+![](/{{ site.baseurl }}/images/img-3787.jpeg)
 <!-- /wp:image --><!-- wp:paragraph {"fontSize":"small"} -->
 
 Next I was intrigued by the suggestion that different pigments may react differently so I decided to experiment with mixing orange with quinacridone magenta and primary yellow.
@@ -75,16 +75,16 @@ I learnt that different papers react differently to water. I was working on pape
 <!-- /wp:heading --><!-- wp:jetpack/slideshow {"ids":[470,471,472,473],"sizeSlug":"large"} -->
 
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3840.heic-copy-1024x768.jpg)
+![](/{{ site.baseurl }}/images/img-3840-heic-copy.jpg)
 _Graded wash #1_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3837-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-3837.jpeg)
 _Graded wash #2_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3838-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-3838.jpeg)
 _Graded wash #3_
 - 
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/IMG_3845-1024x768.jpeg)
+![](/{{ site.baseurl }}/images/img-3845.jpeg)
 _Graded wash #4_
 
 <!-- /wp:jetpack/slideshow --><!-- wp:paragraph {"fontSize":"small"} -->

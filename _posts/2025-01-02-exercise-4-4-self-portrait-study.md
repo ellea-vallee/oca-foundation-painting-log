@@ -36,10 +36,10 @@ I began by going back to my "Drawing Atelier" workbook by Juliette Aristides and
 I find the blocking of shadows the most difficult. I can reproduce the lines and once they are there, I know I have a strong scaffold for the final drawing. However, when it came to work on my own portrait (yikes!) I realised the lighting was key without having a clue for what a good lighting was. Also looking at the selfies made me feel old and "out of date". I didn't really enjoy spending time looking at my wrinkles and flabby skin! In the quick study (below) I can see how the eyes are too far apart, the face is not long enough.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1340,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/IMG_8681-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-8681.jpeg)
 _"Loose" self-portrait study I. Graphite pencil drawing._
 <!-- /wp:image --><!-- wp:image {"id":1341,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/IMG_0151-scaled.jpg)
+![](/{{ site.baseurl }}/images/img-0151.jpg)
 _Self-portrait study. Digital drawing._
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -50,7 +50,7 @@ Next I tried to work on blocking out shadows on my iPad. I enjoyed playing with 
 Finally I returned to the graphite drawing the next day because it was just too awful! I thought I had identified what was wrong with it when writing the post so I might as well try to rectify these issues. It is still not quite right but it's definitely more in the right direction.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1359,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/Document_2025-01-03_084203.jpeg)
+![](/{{ site.baseurl }}/images/document-2025-01-02-105555-1.jpeg)
 <!-- /wp:image --><!-- wp:paragraph -->
 
 "Loose" self-portrait study II. Graphite pencil drawing.
@@ -88,7 +88,7 @@ For the final study, I took a lot of photographs from different angles, position
 I still felt I didn't have the skills to paint it. I didn't want to use the grid again because I find it too tedious. For the collage exercise, I had been skim reading Rod Judkins' book "[Figurative Painting with Collage](https://www.jacksonsart.com/figurative-painting-with-collage-book-by-rod-judkins)" and liked the idea of collaging pictures on the canvas with Gesso to provide ground to work from. So I printed a grayscaled photograph on standard printer paper and applied Gesso on an A4 canvas board. It got a bit messy because I didn't apply Gesso on the edges and the paper did not adhere well (it worked better if I gesso both the canvas and the paper). I tried to push it down but the paper was still too wet and it rubbed off. I liked the roughened aging effect though, it's how I feel about my self-portrait! So I pushed this and got sanding paper to make it smooth.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1343,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2025/01/IMG_8653-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-8653.jpeg)
 _Collage foundation for my self-portrait._
 <!-- /wp:image --><!-- wp:heading {"level":3} -->
 ### Applying skin tones

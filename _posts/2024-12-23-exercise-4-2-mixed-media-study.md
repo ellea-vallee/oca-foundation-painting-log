@@ -53,7 +53,7 @@ Alongside this article, there were several others about finance, space travel, c
 I also found a little illustration using squares to make up a puzzle with different pictures in different colours and thought I could perhaps create a crossword image, crossing the gorilla photograph with images of science and technological transformation.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1297,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/IMG_8447-1-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-8447.jpeg)
 <!-- /wp:image --><!-- wp:heading -->
 ## The process
 <!-- /wp:heading --><!-- wp:paragraph -->

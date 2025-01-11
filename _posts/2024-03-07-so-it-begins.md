@@ -13,7 +13,7 @@ It's a long time coming. In some sense I've been wanted to do this for about 35 
 Yet still I was creating logos, comics, taking and editing photos, even made a short film once! About 9 years ago though I was expecting my second child and decided to take a full year break from work. I put together a portfolio of my work (photos, graphic design work, illustrations) and applied for an online graphic design course. To my surprise, I got in! This gave me a boost in confidence (perhaps I was good enough to do this after all...) but I didn't follow through. Family and friends talked me out of it. I don't regret it though. It was not the right time. The choice was between investing in a new artistic career when I had just been promoted or investing in a family house in France. It was a no brainer...
 
 <!-- /wp:paragraph --><!-- wp:image {"id":259,"width":"245px","height":"409px","sizeSlug":"large","linkDestination":"none","align":"right"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/Untitled_Artwork-4-614x1024.jpg)
+![](/{{ site.baseurl }}/images/untitled-artwork-1.jpg)
 _My first Instagram post 😆_
 <!-- /wp:image --><!-- wp:paragraph {"fontSize":"small"} -->
 

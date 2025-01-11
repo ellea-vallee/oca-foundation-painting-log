@@ -25,12 +25,12 @@ So based on all this, I opted to develop Study 3 "Reflections" as an oil paintin
 <!-- /wp:paragraph --><!-- wp:columns -->
 <!-- wp:column -->
 <!-- wp:image {"id":1057,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/IMG_6408-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-6408.jpeg)
 _Support_
 <!-- /wp:image -->
 <!-- /wp:column --><!-- wp:column -->
 <!-- wp:image {"id":1058,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/IMG_6407-scaled.jpeg)
+![](/{{ site.baseurl }}/images/img-6407.jpeg)
 _Cropped grid_
 <!-- /wp:image -->
 <!-- /wp:column -->
@@ -39,7 +39,7 @@ _Cropped grid_
 I decided to crop my composition on the left, which I think works quite well actually by balancing the third tree with the pool ladder.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1056,"sizeSlug":"full","linkDestination":"none"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/08/Ex3-2_CroppedComposition.jpg)
+![](/{{ site.baseurl }}/images/ex3-1-study6-reference.png)
 _Cropped composition of the source photograph for "Reflections"_
 <!-- /wp:image --><!-- wp:image {"id":1063,"sizeSlug":"large"} -->
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/09/img_6409.jpg)
@@ -70,7 +70,7 @@ _Experimenting with leaves_
 I was wondering whether it was best to paint the leaves dark first and then paint the white with a spec of cerulean blue around or paint the light background first and add the dark leaves afterwards. So I tried both! The result turned out very different, so order matters! The wet on wet was "fluffier". I preferred the first tree which was more defined and so used this approach for the third tree.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1067,"sizeSlug":"large"} -->
-![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/09/photo_2024-09-02_221353-1.jpg)
+![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)
 _Completing the reflections_
 <!-- /wp:image --><!-- wp:paragraph -->
 
@@ -91,7 +91,7 @@ _Filling the pool water_
 I finally got the courage to get back to it. I feel the pressure of time. I'm taking way too long to complete this (at least 4 hours so far) and I'm weary that I need to progress so I'm not rushed at the end of the course.
 
 <!-- /wp:paragraph --><!-- wp:image {"id":1070,"sizeSlug":"large","linkDestination":"media"} -->
-[![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/09/photo_2024-09-23_194044-1.jpg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/09/photo_2024-09-23_194044-1.jpg)
+[![](/{{ site.baseurl }}/images/photo-2024-02-17-174348.jpeg)](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/09/photo_2024-09-23_194044-1.jpg)
 _Pool reflections. Oil on Canvas Board. 24 x 30cm_
 <!-- /wp:image --><!-- wp:paragraph -->
 
