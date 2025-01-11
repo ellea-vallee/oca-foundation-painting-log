@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 1.1 • Exploring mark making (Prompt #1)"
 date: 2024-03-21 08:10:07 +0000
-categories: [Coursework, Part 1, Project 1.1 - Ways of applying paint]
-tags: [learning log, mark-making]
+categories: [coursework, part-1, project-1-1-ways-of-applying-paint]
+tags: [learning-log, mark-making]
 ---
 
 In this exercise I was experimenting with, and reflecting on, the different effects I can create while applying paint.

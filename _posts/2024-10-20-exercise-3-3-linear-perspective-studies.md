@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 3.3 • Linear perspective studies"
 date: 2024-10-20 13:52:40 +0000
-categories: [Part 3, Project 3.2 - Perspectives]
-tags: [learning log, painting study]
+categories: [part-3, project-3-2-perspectives]
+tags: [learning-log, painting-study]
 ---
 
 ## The prompt

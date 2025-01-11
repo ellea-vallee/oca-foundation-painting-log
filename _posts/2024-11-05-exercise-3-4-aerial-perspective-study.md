@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 3.4 • Aerial perspective study"
 date: 2024-11-05 19:56:09 +0000
-categories: [Part 3, Project 3.2 - Perspectives]
-tags: [composition studies, digital drawing, painting study]
+categories: [part-3, project-3-2-perspectives]
+tags: [composition-studies, digital-drawing, painting-study]
 ---
 
 ## The prompt

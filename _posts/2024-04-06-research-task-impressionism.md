@@ -2,8 +2,8 @@
 layout: post
 title: "Research task: Impressionism"
 date: 2024-04-06 15:00:00 +0000
-categories: [Coursework, Notes, Part 1, Research &amp; Reflection]
-tags: [learning log]
+categories: [coursework, notes, part-1, research-andamp-reflection]
+tags: [learning-log]
 ---
 
 In this post, I'm comparing the work of two impressionist artists, observing their distinct approaches to using brush marks to convey movement, capture the essence of a scene and suggest the changing qualities of lights.

@@ -2,8 +2,8 @@
 layout: post
 title: "Exercice 1.4 • Working on top of a background wash"
 date: 2024-04-02 14:20:02 +0000
-categories: [Coursework, Part 1, Project 1.2 - Translucency]
-tags: [learning log, washes]
+categories: [coursework, part-1, project-1-2-translucency]
+tags: [learning-log, washes]
 ---
 
 ### Experiment 1

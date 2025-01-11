@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 2.5 • Complementary colours"
 date: 2024-08-11 14:28:02 +0000
-categories: [Part 2, Project 2.2 - Still life studies]
-tags: [learning log, oil painting, still life]
+categories: [part-2, project-2-2-still-life-studies]
+tags: [learning-log, oil-painting, still-life]
 ---
 
 For this exercise I used only complementary colours.&nbsp;I chose to work with orange and blue.

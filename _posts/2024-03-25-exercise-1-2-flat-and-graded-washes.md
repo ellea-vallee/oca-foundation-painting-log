@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 1.2 • Flat and Graded Washes"
 date: 2024-03-25 18:47:36 +0000
-categories: [Coursework, Part 1, Project 1.2 - Translucency]
-tags: [learning log, washes]
+categories: [coursework, part-1, project-1-2-translucency]
+tags: [learning-log, washes]
 ---
 
 ## Experimenting with flat washes

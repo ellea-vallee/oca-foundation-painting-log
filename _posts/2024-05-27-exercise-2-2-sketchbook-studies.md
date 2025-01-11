@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 2.2 • Sketchbook studies"
 date: 2024-05-27 14:46:35 +0000
-categories: [Part 2, Project 2.1 - Getting to know your colours]
-tags: [learning log, still life, watercolour painting]
+categories: [part-2, project-2-1-getting-to-know-your-colours]
+tags: [learning-log, still-life, watercolour-painting]
 ---
 
 The aim of this exercise was to make a series of quick studies in my sketchbook using watercolour paint in preparation for a still life painting. I was to spend no more than 15 minutes on each study and produce at least eight different studies, working from life with one or two objects, fruits, or a bright scarf and a bag.

@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 2.4 • Using a coloured ground"
 date: 2024-07-30 17:34:38 +0000
-categories: [Part 2, Project 2.2 - Still life studies]
-tags: [learning log, oil painting, still life]
+categories: [part-2, project-2-2-still-life-studies]
+tags: [learning-log, oil-painting, still-life]
 ---
 
 > <!-- wp:paragraph -->

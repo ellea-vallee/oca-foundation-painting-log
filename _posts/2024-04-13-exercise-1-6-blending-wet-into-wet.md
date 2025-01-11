@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 1.6 • Blending Wet Into Wet"
 date: 2024-04-13 09:50:38 +0000
-categories: [Part 1, Project 1.3 - Developping your mark making]
-tags: [learning log, oil painting, painting study, still life]
+categories: [part-1, project-1-3-developping-your-mark-making]
+tags: [learning-log, oil-painting, painting-study, still-life]
 ---
 
 In this exercise, my aim was to compare two approaches for blending. Either using subtle brush to make marks that remain visible and add texture to the surface or use a blender to gently stroke the surface of the paint to make the brush marks invisible.

@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 2.1 • Exploring colour mixing"
 date: 2024-05-05 10:48:30 +0000
-categories: [Part 2, Project 2.1 - Getting to know your colours]
-tags: [acrylic painting, learning log, mark-making, oil painting]
+categories: [part-2, project-2-1-getting-to-know-your-colours]
+tags: [acrylic-painting, learning-log, mark-making, oil-painting]
 ---
 
 ## Mixing Warm and Cool Secondary Colours

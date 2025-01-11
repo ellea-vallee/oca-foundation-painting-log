@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 1.7 • Flat Brush to Form"
 date: 2024-04-21 09:29:10 +0000
-categories: [Coursework, Part 1, Project 1.3 - Developping your mark making]
-tags: [learning log, oil painting, still life]
+categories: [coursework, part-1, project-1-3-developping-your-mark-making]
+tags: [learning-log, oil-painting, still-life]
 ---
 
 ## Leg work

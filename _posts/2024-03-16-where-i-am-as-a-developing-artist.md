@@ -2,7 +2,7 @@
 layout: post
 title: "Where I am... as a developing artist"
 date: 2024-03-16 20:13:04 +0000
-categories: [Induction, Where am I?]
+categories: [induction, where-am-i]
 tags: []
 ---
 

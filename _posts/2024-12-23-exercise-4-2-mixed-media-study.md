@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 4.2 • Mixed media study"
 date: 2024-12-23 08:47:13 +0000
-categories: [Part 4, Project 4.1 - Storytelling and Composition]
-tags: [collage, composition studies]
+categories: [part-4, project-4-1-storytelling-and-composition]
+tags: [collage, composition-studies]
 ---
 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/12/IMG_8449.jpeg)

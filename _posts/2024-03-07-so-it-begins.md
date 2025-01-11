@@ -2,7 +2,7 @@
 layout: post
 title: "So it begins!"
 date: 2024-03-07 07:21:15 +0000
-categories: [Notes, Research &amp; Reflection]
+categories: [notes, research-andamp-reflection]
 tags: []
 ---
 

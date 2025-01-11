@@ -2,8 +2,8 @@
 layout: post
 title: "Planning my study time..."
 date: 2024-03-24 10:06:28 +0000
-categories: [Notes, Research &amp; Reflection]
-tags: [learning log]
+categories: [notes, research-andamp-reflection]
+tags: [learning-log]
 ---
 
 How do you figure out when you need to complete exercises by to keep in with the timeline and complete the course within a year?

@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 4.3・People in places"
 date: 2024-12-26 11:31:20 +0000
-categories: [Part 4, Project 4.2 - Figure Studies]
-tags: [digital art, drawing, figure studies]
+categories: [part-4, project-4-2-figure-studies]
+tags: [digital-art, drawing, figure-studies]
 ---
 
 ## The prompt

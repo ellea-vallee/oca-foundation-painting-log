@@ -2,7 +2,7 @@
 layout: post
 title: "Copycat challenge"
 date: 2024-03-13 20:00:00 +0000
-categories: [Copy cat challenge, Induction]
+categories: [copy-cat-challenge, induction]
 tags: []
 ---
 

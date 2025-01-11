@@ -2,8 +2,8 @@
 layout: post
 title: "Research task: Perspective in Asian art"
 date: 2024-11-02 18:07:17 +0000
-categories: [Part 3, Project 3.2 - Perspectives, Research &amp; Reflection, Uncategorised]
-tags: [Chinese painting, composition studies, learning log]
+categories: [part-3, project-3-2-perspectives, research-andamp-reflection, uncategorised]
+tags: [chinese-painting, composition-studies, learning-log]
 ---
 
 When looking at artwork from Chinese painters, you can immediately tell that they have a very different approach to represent perspective compared to the Western masters. While the traditional European approach is very mathematical with its perspective lines and vanishing points, the Chinese approach appears freer, and looser, more "dream-like".

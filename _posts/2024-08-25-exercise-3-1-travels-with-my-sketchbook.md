@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 3.1 • Travels with my sketchbook"
 date: 2024-08-25 08:50:14 +0000
-categories: [Part 3, Project 3.1 - Composition studies]
-tags: [composition studies, learning log, sketchbook]
+categories: [part-3, project-3-1-composition-studies]
+tags: [composition-studies, learning-log, sketchbook]
 ---
 
 The aim of this exercise was to make a series of six to eight 30-minute composition studies outside in my sketchbook using watercolour, ink or acrylic and asking whether the view was "well balanced" and with "enough elements" to make the study engaging.

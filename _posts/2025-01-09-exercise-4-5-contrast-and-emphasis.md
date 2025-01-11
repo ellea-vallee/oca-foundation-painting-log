@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 4.5 • Contrast and emphasis"
 date: 2025-01-09 09:09:45 +0000
-categories: [Part 4, Project 4.2 - Figure Studies, Uncategorised]
-tags: [collage, learning log, painting study, photography]
+categories: [part-4, project-4-2-figure-studies, uncategorised]
+tags: [collage, learning-log, painting-study, photography]
 ---
 
 For this exercise, I explored how figures and their settings work together to create meaning in paintings. I started by developing studies before moving to a final piece, focussing on the arrangement of forms and light. I enjoyed looking at Hopper's work to reflect on the possibilities for depicting people in spaces, which informed my approach to the task.

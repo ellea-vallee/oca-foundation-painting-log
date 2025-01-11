@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 1.1 • Exploring mark making (Prompts #2 to #9)"
 date: 2024-03-22 07:31:12 +0000
-categories: [Coursework, Part 1, Project 1.1 - Ways of applying paint]
-tags: [learning log, mark-making]
+categories: [coursework, part-1, project-1-1-ways-of-applying-paint]
+tags: [learning-log, mark-making]
 ---
 
 ## #2 Small flat hog, dry brush marks

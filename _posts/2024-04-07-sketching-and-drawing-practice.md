@@ -2,7 +2,7 @@
 layout: post
 title: "Sketching and drawing practice"
 date: 2024-04-07 19:31:17 +0000
-categories: [Notes, Research &amp; Reflection]
+categories: [notes, research-andamp-reflection]
 tags: [drawing, sketchbook]
 ---
 

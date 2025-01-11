@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 2.3 • A simple arrangement of shapes"
 date: 2024-07-05 08:46:33 +0000
-categories: [Part 2, Project 2.2 - Still life studies]
-tags: [learning log, oil painting, still life]
+categories: [part-2, project-2-2-still-life-studies]
+tags: [learning-log, oil-painting, still-life]
 ---
 
 In this exercise, the aim was to paint simple shapes using flat brushes, using different hues and colour values to describe forms.

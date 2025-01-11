@@ -2,8 +2,8 @@
 layout: post
 title: "Research task: Colour field painting"
 date: 2024-05-27 12:29:09 +0000
-categories: [Part 2, Project 2.1 - Getting to know your colours, Research &amp; Reflection]
-tags: [colour field painting, Helen Frankenthaler, Kenneth Noland]
+categories: [part-2, project-2-1-getting-to-know-your-colours, research-andamp-reflection]
+tags: [colour-field-painting, helen-frankenthaler, kenneth-noland]
 ---
 
 ## Abstract impressionism and colour field painting

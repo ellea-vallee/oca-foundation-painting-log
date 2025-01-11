@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 3.7 • Landscape elements"
 date: 2024-12-14 22:41:05 +0000
-categories: [Coursework, Part 3, Project 3.3 - Negative and positive spaces]
-tags: [composition studies, oil painting]
+categories: [coursework, part-3, project-3-3-negative-and-positive-spaces]
+tags: [composition-studies, oil-painting]
 ---
 
 ## The prompt

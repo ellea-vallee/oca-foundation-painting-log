@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 4.4 • Self Portrait Study"
 date: 2025-01-02 12:59:10 +0000
-categories: [Part 4, Project 4.2 - Figure Studies]
-tags: [acrylic painting, collage, learning log, self-portrait]
+categories: [part-4, project-4-2-figure-studies]
+tags: [acrylic-painting, collage, learning-log, self-portrait]
 ---
 
 ## The prompt and intention

@@ -2,7 +2,7 @@
 layout: post
 title: "Exercise 1.3 • Variegated Washes"
 date: 2024-03-30 10:44:53 +0000
-categories: [Coursework, Part 1, Project 1.2 - Translucency]
+categories: [coursework, part-1, project-1-2-translucency]
 tags: []
 ---
 

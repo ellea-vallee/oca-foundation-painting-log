@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 3.5 • Larger perspective study"
 date: 2024-11-20 23:16:49 +0000
-categories: [Part 3, Project 3.2 - Perspectives]
-tags: [composition studies, learning log, oil painting, painting study]
+categories: [part-3, project-3-2-perspectives]
+tags: [composition-studies, learning-log, oil-painting, painting-study]
 ---
 
 # The prompt

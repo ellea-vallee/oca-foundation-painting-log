@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 1.9 • Impasto Study"
 date: 2024-04-29 17:49:04 +0000
-categories: [Coursework, Project 1.3 - Developping your mark making]
-tags: [acrylic painting, learning log, painting study, still life]
+categories: [coursework, project-1-3-developping-your-mark-making]
+tags: [acrylic-painting, learning-log, painting-study, still-life]
 ---
 
 In this last exercise, I tried to incorporate the impasto technique into a study. I used a 24 x 30 cm canvas board and acrylic paint for this study. As subject matter I used a painting by Wayne Thiebaud. I am a big fan of his paintings, both in terms of subject matter, colour palettes and technique. I particularly like his paintings of cakes and sweets. I had never used a paint knife before so this really was more an exploration than a study! I was curious to see if I could reproduce the style of "Cupcake" an oil painting on canvas which Thiebaud completed in 2000.

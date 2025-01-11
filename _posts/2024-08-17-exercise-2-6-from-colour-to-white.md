@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 2.6 • From colour to white"
 date: 2024-08-17 06:55:40 +0000
-categories: [Part 2, Project 2.2 - Still life studies, Uncategorised]
-tags: [Georgio Morandi, learning log, oil painting, still life]
+categories: [part-2, project-2-2-still-life-studies, uncategorised]
+tags: [georgio-morandi, learning-log, oil-painting, still-life]
 ---
 
 For this last exercise, the prompt was to experiment with making a still life painting that appears to be white but is in fact a combination of subtle colour mixes.

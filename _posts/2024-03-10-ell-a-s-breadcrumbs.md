@@ -2,8 +2,8 @@
 layout: post
 title: "Ellëa's breadcrumbs"
 date: 2024-03-10 06:47:45 +0000
-categories: [Breadcrumb Trail, Induction]
-tags: [breadcrumb trail challenge]
+categories: [breadcrumb-trail, induction]
+tags: [breadcrumb-trail-challenge]
 ---
 
 ![](https://spaces.oca.ac.uk/gaellelog/wp-content/uploads/sites/5355/2024/03/Betlegeuse_gif-2.gif)

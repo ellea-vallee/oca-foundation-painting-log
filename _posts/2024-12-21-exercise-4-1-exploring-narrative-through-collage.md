@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 4.1 • Exploring Narrative through Collage"
 date: 2024-12-21 21:25:48 +0000
-categories: [Part 4, Project 4.1 - Storytelling and Composition]
-tags: [collage, composition studies]
+categories: [part-4, project-4-1-storytelling-and-composition]
+tags: [collage, composition-studies]
 ---
 
 # The prompt

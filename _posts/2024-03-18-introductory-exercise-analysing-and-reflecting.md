@@ -2,8 +2,8 @@
 layout: post
 title: "Introductory Exercise: Analysing and Reflecting"
 date: 2024-03-18 22:36:22 +0000
-categories: [Coursework, Part 1]
-tags: [learning log, Marlène Dumas]
+categories: [coursework, part-1]
+tags: [learning-log, marl-ne-dumas]
 ---
 
 ![](https://www.charlessaatchi.com/wp-content/uploads/2021/03/20091127032843_MarleneDumasJDVron.jpg)

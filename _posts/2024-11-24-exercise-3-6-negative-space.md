@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 3.6 • Negative space"
 date: 2024-11-24 14:22:37 +0000
-categories: [Part 3, Project 3.3 - Negative and positive spaces]
-tags: [composition studies, learning log, painting study]
+categories: [part-3, project-3-3-negative-and-positive-spaces]
+tags: [composition-studies, learning-log, painting-study]
 ---
 
 ## The prompt

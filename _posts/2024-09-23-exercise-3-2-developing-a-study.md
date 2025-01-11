@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 3.2 • Developing a study"
 date: 2024-09-23 21:36:26 +0000
-categories: [Part 3, Project 3.1 - Composition studies, Uncategorised]
-tags: [composition studies, learning log, oil painting]
+categories: [part-3, project-3-1-composition-studies, uncategorised]
+tags: [composition-studies, learning-log, oil-painting]
 ---
 
 This exercice required choosing a composition from Exercise 3.1. This was not an easy fit as I overthink things and don't feel confident in my ability to gauge what makes for a good composition. I tried to use social media to see what feedback I would get. I'm not sure how valid this is but, oddly enough, the two images which received the most interactions were also my two favourite images.

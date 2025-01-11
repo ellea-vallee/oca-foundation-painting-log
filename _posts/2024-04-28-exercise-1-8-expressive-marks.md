@@ -2,8 +2,8 @@
 layout: post
 title: "Exercise 1.8 • Expressive marks"
 date: 2024-04-28 10:43:49 +0000
-categories: [Coursework, Part 1, Project 1.3 - Developping your mark making]
-tags: [learning log, mark-making, painting study, still life]
+categories: [coursework, part-1, project-1-3-developping-your-mark-making]
+tags: [learning-log, mark-making, painting-study, still-life]
 ---
 
 For this exercise, the prompt was to work quickly and expressively with bold gestures using a vase of flowers as a subject.

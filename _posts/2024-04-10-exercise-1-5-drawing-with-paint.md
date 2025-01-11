@@ -2,7 +2,7 @@
 layout: post
 title: "Exercise 1.5 • Drawing with Paint"
 date: 2024-04-10 17:16:57 +0000
-categories: [Part 1, Project 1.3 - Developping your mark making]
+categories: [part-1, project-1-3-developping-your-mark-making]
 tags: []
 ---
 
