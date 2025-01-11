@@ -36,26 +36,38 @@ I started with the turquoise colour and mixed a small lump with water using a pa
 
 
 
-*
-*Flat wash #1.*
-
-* The first result was not bad but it had lots of small mishaps, like the masking tape ripping the paper, dust and hair getting caught in the wash. In some sense it's not a big deal, only that it feels a bit amateurish. It also was really buckling.
-
-
 
 *
+*
+Flat wash #1.
+*
 
-*Flat wash #2.*
+*
+ The first result was not bad but it had lots of small mishaps, like the masking tape ripping the paper, dust and hair getting caught in the wash. In some sense it's not a big deal, only that it feels a bit amateurish. It also was really buckling.
 
-* For my second try, I tried to use only one pass but it did not look good at all, with the lines really showing and the paint at times being dark or the brush getting dry by the end of the line.
 
 
 
 *
 
-*Flat wash #3.*
+*
+Flat wash #2.
+*
 
-* I tried a third time and the masking tape tore the paper again. I accidentally caught some of the humid paper as well and it lifted off an entire strip! Then I went off piste thinking this created interesting shapes and had a little play!
+*
+ For my second try, I tried to use only one pass but it did not look good at all, with the lines really showing and the paint at times being dark or the brush getting dry by the end of the line.
+
+
+
+
+*
+
+*
+Flat wash #3.
+*
+
+*
+ I tried a third time and the masking tape tore the paper again. I accidentally caught some of the humid paper as well and it lifted off an entire strip! Then I went off piste thinking this created interesting shapes and had a little play!
 
 
 ![](/{{ site.baseurl }}/images/img-3787.jpeg)
@@ -65,19 +77,27 @@ Next I was intrigued by the suggestion that different pigments may react differe
 
 
 
-*
-
-*Flat wash #4.*
-
-* The next wash was not bad, still showed lines and I realised the paint was "gripping" where the buckle started to form. I did pass over it more than once again, I couldn't get it in one go. I don't know if that's the right way to do it. Possibly an interaction between the ratio of paint and water, the fluidity of the paint, and the paper...
-
-
 
 *
 
-*Flat wash #5.*
+*
+Flat wash #4.
+*
 
-* I didn't like the shade of the orange I got so I added a bit of fluorescent pink to spice it up! I was quite happy with this one. There were lines showing but it added a nice texture, so I didn't mind. The buckling was still annoying though so I researched some videos to help me understand how to address this and found a very instructive video from Makoccino!
+*
+ The next wash was not bad, still showed lines and I realised the paint was "gripping" where the buckle started to form. I did pass over it more than once again, I couldn't get it in one go. I don't know if that's the right way to do it. Possibly an interaction between the ratio of paint and water, the fluidity of the paint, and the paper...
+
+
+
+
+*
+
+*
+Flat wash #5.
+*
+
+*
+ I didn't like the shade of the orange I got so I added a bit of fluorescent pink to spice it up! I was quite happy with this one. There were lines showing but it added a nice texture, so I didn't mind. The buckling was still annoying though so I researched some videos to help me understand how to address this and found a very instructive video from Makoccino!
 
 
 https://youtu.be/vRYKSVi\_TCQ?si=TZ2ZJO9yC-gaWFcx
@@ -87,11 +107,15 @@ I learnt that different papers react differently to water. I was working on pape
 
 
 
+
 *
 
-*Flat wash #6.*
+*
+Flat wash #6.
+*
 
-* Wow, what a difference the paper made! In this wash, I used the same brush but now the paint was evenly spread, and the texture was even. My best wash so far. The paper still buckled but I also learnt from the video that I can spray on the back to get it to flatten (it's quite magical to see!) and also that I could iron it. I did give that a try as well. It worked well for the thick 300gsm paper, but not so much for the lighter paper (it creased).
+*
+ Wow, what a difference the paper made! In this wash, I used the same brush but now the paint was evenly spread, and the texture was even. My best wash so far. The paper still buckled but I also learnt from the video that I can spray on the back to get it to flatten (it's quite magical to see!) and also that I could iron it. I did give that a try as well. It worked well for the thick 300gsm paper, but not so much for the lighter paper (it creased).
 
 
 ## Experimenting with graded washes
@@ -112,26 +136,38 @@ _Graded wash #4_
 
 
 
-*
-
-*Graded wash #1.*
-
-* Building on my successful flat wash, I used my last sheet of 300gsm watercolor paper to complete my graded wash and I was pleased with the result! In fact, it was too quick and I wanted to practice more but I was out of paper!
-
-
 
 *
 
-*Graded washes #2 and #3.*
+*
+Graded wash #1.
+*
 
-* I reverted to my acrylic block to practice more, but the results were not as good as what I could achieve with the watercolor paper.
+*
+ Building on my successful flat wash, I used my last sheet of 300gsm watercolor paper to complete my graded wash and I was pleased with the result! In fact, it was too quick and I wanted to practice more but I was out of paper!
+
 
 
 
 *
 
-*Graded wash #4.*
-* Still eager to practice a little more, I scavenged for other materials and found a stash of small wood panels. That was again really pleasant to do but also really fast (and perhaps I could have made the transition a little more graded), but at least there was absolutely no buckling!
+*
+Graded washes #2 and #3.
+*
+
+*
+ I reverted to my acrylic block to practice more, but the results were not as good as what I could achieve with the watercolor paper.
+
+
+
+
+*
+
+*
+Graded wash #4.
+*
+*
+ Still eager to practice a little more, I scavenged for other materials and found a stash of small wood panels. That was again really pleasant to do but also really fast (and perhaps I could have made the transition a little more graded), but at least there was absolutely no buckling!
 
 
 ## Final thoughts

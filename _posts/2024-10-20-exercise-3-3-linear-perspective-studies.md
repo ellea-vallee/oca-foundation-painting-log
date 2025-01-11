@@ -9,13 +9,21 @@ tags: [learning-log, painting-study]
 ## The prompt
 
 
-This exercise suggested to use *
-*a section of an interior*
+This exercise suggested to use 
+*
+*
+a section of an interior
+*
 
-* or such as the corner of a living room or a kitchen with a table and a doorway or *
+*
+ or such as the corner of a living room or a kitchen with a table and a doorway or 
+*
 
-*a section of a garden*
-* with a path and perhaps a shed.
+*
+a section of a garden
+*
+*
+ with a path and perhaps a shed.
 
 
 

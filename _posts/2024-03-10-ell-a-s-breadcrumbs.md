@@ -14,9 +14,13 @@ Today I (finally!) completed my first creative challenge for the Induction cours
 
 
 
+
 *
-*Spoiler alert!*
-* If you haven't done so, it may be best to follow the trail first before you read on! You can find the trail by clicking the button below or at the end of this post!
+*
+Spoiler alert!
+*
+*
+ If you haven't done so, it may be best to follow the trail first before you read on! You can find the trail by clicking the button below or at the end of this post!
 
 
 

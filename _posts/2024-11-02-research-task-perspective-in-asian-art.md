@@ -90,8 +90,11 @@ I find all this fascinating. The idea of drawing from a schema or drawing from w
 
 
 
+
 * *
+
  
+
 *
 
 
@@ -109,7 +112,11 @@ Perspective, we are told, depends on the relationship between the eye, the objec
 
 Traditional Western paintings are often characterised by their use of " *
 
+
+
 *focal point perspective*
+
+
 
 *" famously exemplified by Leonardo Da Vinci's last supper, with the figure of Jesus as the central focal point and the parallel line of sight represented by the twelve disciples.
 
@@ -120,7 +127,11 @@ _Leonardo Da Vinci, The Last Supper, c. 1498._
 
 Another way to depict space and distance is " *
 
+
+
 *colour perspective*
+
+
 
 *" where closer objects are brighter and crisper and the objects which are further away are blurrier, less saturated and less varied. This is illustrated by "Les Glaneuses" (the Gleaners) by Jean-François Millet where the women in the foreground are depicted with warmer and more detailed colours while the distance is represented with cooler, softer, greyer tones.
 
@@ -138,7 +149,11 @@ _William Turner, The slave ship, 1840, oil on canvas._
 
 Now Zhu contrasts these three Western approaches to perspective with the " *
 
+
+
 *scattered perspective*
+
+
 
 *" —also referred to as "moving point perspective"—, presented as the most characteristic method of perspective expression in Chinese paintings. In paintings relying on the scattered perspective, "the field of view is not limited by space, and the viewer's point of view flows up and down, left and right, far and near (...) [forming] a flowing space with multiple viewpoints" (p. 221).
 
@@ -167,8 +182,11 @@ The sense of perspective is given here by the "Three Distant Methods" whose orig
 
 
 *
+
  
+
 * *
+
 
 
 

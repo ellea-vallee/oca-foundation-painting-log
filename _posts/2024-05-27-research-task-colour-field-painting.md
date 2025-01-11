@@ -13,9 +13,13 @@ tags: [colour-field-painting, helen-frankenthaler, kenneth-noland]
 
 
 
-Colour field painting is a style of abstract expressionism that uses unified areas of unmodulated colours. The term was coined by *
-*Clement Greenberg*
-* in the mid 1960s to distinguish this style from the more gestural, or "painterly" approach of abstract expressionists, with its loose handling of paint, blotted and fused shaped, rhythmic use of colours, and visible layering of marks of brushes, paint knifes or hands to evoke instability. In contrast, colour field painters sought to remove gesture from their paintings, and sought to express "expansiveness, clarity, all-overness" rather than process through the juxtaposition of large areas of colour fused with the surface. Meaning and representation is replaced by "pure, wordless seeing" (Wilkin, 2007).
+Colour field painting is a style of abstract expressionism that uses unified areas of unmodulated colours. The term was coined by 
+*
+*
+Clement Greenberg
+*
+*
+ in the mid 1960s to distinguish this style from the more gestural, or "painterly" approach of abstract expressionists, with its loose handling of paint, blotted and fused shaped, rhythmic use of colours, and visible layering of marks of brushes, paint knifes or hands to evoke instability. In contrast, colour field painters sought to remove gesture from their paintings, and sought to express "expansiveness, clarity, all-overness" rather than process through the juxtaposition of large areas of colour fused with the surface. Meaning and representation is replaced by "pure, wordless seeing" (Wilkin, 2007).
 
 
 
