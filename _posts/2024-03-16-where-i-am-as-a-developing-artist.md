@@ -8,35 +8,35 @@ tags: []
 
 I'm a foundation Painting fresher (which makes me feel very young haha). Here's a sneak peak into my creative space. While Gaëlle is the name by which I'm known in life, when it comes to my art, I like to sign my works as "Ellëa." It's Gaëlle backward without the g, which summarizes pretty much how I feel about my artistic identity!
 
-<!-- /wp:paragraph --><!-- wp:paragraph -->
+
 
 I will work from the family lounge to complete this course. This has grown into a studio which I share with my 9-year old who has been my art partner since she could hold a pencil!
 
-<!-- /wp:paragraph --><!-- wp:image {"id":284,"sizeSlug":"large","linkDestination":"none"} -->
+
 ![](/{{ site.baseurl }}/images/img-0037.jpeg)
-<!-- /wp:image --><!-- wp:paragraph {"align":"left"} -->
+
 
 I have grown "on my own" following daily IG challenges like Inktober, online courses and tutorials, and a couple of evening adult classes for the first time, a couple of years ago. Sadly I have a very long history of starting and not finishing, but I'm always very enthusiastic at the outset and I have very much enjoyed toying with the variety of creative challenges I was given in the induction!
 
-<!-- /wp:paragraph --><!-- wp:paragraph {"align":"left"} -->
+
 
 So, where I am... Well I have come a long way. I started with (very) tiny doodles (as you can see in the video below) and grew in confidence to experiment with larger surfaces.
 
-<!-- /wp:paragraph --><!-- wp:paragraph {"align":"center"} -->
+
 
 https://oca.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=a15e8e8a-1819-447b-9d28-b13501207719&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=false&interactivity=all
 
-<!-- /wp:paragraph --><!-- wp:paragraph -->
+
 
 I've dabbled in many art practices (watercolor, ink, gouache, acrylic, linocuts, and even photography, sculpture, digital art and video editing!) but I am definitely a master of none, as I can't seem to settle on just one!
 
-<!-- /wp:paragraph --><!-- wp:paragraph -->
+
 
 Looking back at what I have produced, I can see I seem to always go back to lines and mark making, bold colors, big natural shapes. I love blue (especially ultramarine) and for some reasons, I also tend to draw a lot of women's faces. I don't quite know exactly why but these always seem to come back! Women and cats, go figure!&nbsp;The gallery below gives you an overview of my random creative walks, in no particular order, without a particular theme. Welcome to my messy brain!
 
-<!-- /wp:paragraph --><!-- wp:columns {"align":"wide"} -->
-<!-- wp:column {"verticalAlignment":"center","width":"100%"} -->
-<!-- wp:jetpack/slideshow {"ids":[285,293,289,313,292,300,302,306,311,307,308,310,312,315,322,305,295,294,298,287,286,317,301,309,296,288,319,316,320,297,290,304,314,291,299,303],"sizeSlug":"large","className":"@media only screen and (max-width:600px){ .soliloquy-caption {display: block !important;}}"} -->
+
+
+
 
 - 
 ![](/{{ site.baseurl }}/images/creative-coding-001-17.png)
@@ -147,6 +147,5 @@ _Save the planet_
 ![](/{{ site.baseurl }}/images/img-2454.jpeg)
 _Inequality_
 
-<!-- /wp:jetpack/slideshow -->
-<!-- /wp:column -->
-<!-- /wp:columns -->
+
+
