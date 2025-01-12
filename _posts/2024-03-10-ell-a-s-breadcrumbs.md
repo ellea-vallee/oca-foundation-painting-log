@@ -6,8 +6,10 @@ categories: [breadcrumb-trail, induction]
 tags: [breadcrumb-trail-challenge]
 ---
 
-![](/assets/images/betlegeuse-gif-2-gif)
-_gif I created to provide an exciting entry point to the breadcrumb challenge_
+![](/assets/images/betlegeuse-gif-2.gif)
+{: .image-caption}
+gif I created to provide an exciting entry point to the breadcrumb challenge
+{: .caption}
 
 Today I (finally!) completed my first creative challenge for the Induction course, the so-called ["Breadcrumb trail" challenge](https://learn.oca.ac.uk/mod/book/view.php?id=25395&chapterid=6378). In this post I share my reflections on the creative process.
 
