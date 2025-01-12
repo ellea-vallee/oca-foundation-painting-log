@@ -27,7 +27,7 @@ This allowed me to develop a theme around women in art, women as artists, women 
 
 Once I had identified the weblinks, I started to think how I would present the whole breadcrumbs and thought I wanted an engaging visual point of entry. This reminded of an image from one of my favorite films: "Beetlejuice" by Tim Burton. It does feel like joining this foundation course, I'm about to wake up my inner Beetlejuice!
 
-![](/oca-foundation-painting-log/assets/images/untitled-artwork-16-edited-1.jpg)
+![](/oca-foundation-painting-log/assets/images/untitled-artwork-16.jpg)
 _Gorilla girl digital illustration I created for the breadcrumb trail challenge._
 
 I wanted to make the whole experience fun and easy to get into, so people would want to dive in and check it out. I had my husband test it, and he got stuck right at the beginning because the instructions weren't clear enough. So, I added a few hints to make it easier to understand.
