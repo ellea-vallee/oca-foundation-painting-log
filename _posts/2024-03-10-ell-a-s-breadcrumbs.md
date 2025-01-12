@@ -6,7 +6,8 @@ categories: [breadcrumb-trail, induction]
 tags: [breadcrumb-trail-challenge]
 ---
 
-![](/assets/images/betlegeuse-gif-2.gif)
+![](/oca-foundation-painting-log/assets/images/betlegeuse-gif-2.gif)
+
 {: .image-caption}
 gif I created to provide an exciting entry point to the breadcrumb challenge
 {: .caption}
