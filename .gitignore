@@ -1,5 +1,6 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+.DS_Store
+*posts*backup*/
+*.xml
+import_media.rb
+update_image_urls.rb
+assets/.DS_Store
